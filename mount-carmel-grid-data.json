@@ -363,20 +363,20 @@
                 "findagrave_id": "65246675"
             },
             {
-                "individual_id": 1829,
-                "name": "Hunnicutt, William Reese",
-                "years": "1914–2005",
-                "birth_year": "1914",
-                "death_year": "2005",
-                "findagrave_id": "65246763"
-            },
-            {
                 "individual_id": 1827,
                 "name": "Hunnicutt, William Reese",
                 "years": "1882–1944",
                 "birth_year": "1882",
                 "death_year": "1944",
                 "findagrave_id": "86135545"
+            },
+            {
+                "individual_id": 1829,
+                "name": "Hunnicutt, William Reese",
+                "years": "1914–2005",
+                "birth_year": "1914",
+                "death_year": "2005",
+                "findagrave_id": "65246763"
             },
             {
                 "individual_id": 405,
@@ -624,20 +624,20 @@
                 "familysearch_id": "LZZM-5JQ"
             },
             {
-                "individual_id": 176,
-                "name": "Dean, Dave C.",
-                "years": "1912–1932",
-                "birth_year": "1912",
-                "death_year": "1932",
-                "findagrave_id": "85709657"
-            },
-            {
                 "individual_id": 177,
                 "name": "Dean, Dave C.",
                 "years": "1878–1948",
                 "birth_year": "1878",
                 "death_year": "1948",
                 "findagrave_id": "85709722"
+            },
+            {
+                "individual_id": 176,
+                "name": "Dean, Dave C.",
+                "years": "1912–1932",
+                "birth_year": "1912",
+                "death_year": "1932",
+                "findagrave_id": "85709657"
             },
             {
                 "individual_id": 178,
@@ -1434,20 +1434,20 @@
                 "findagrave_id": "85769358"
             },
             {
-                "individual_id": 407,
-                "name": "Lanier, Roland Edwin",
-                "years": "1905–1967",
-                "birth_year": "1905",
-                "death_year": "1967",
-                "findagrave_id": "85769443"
-            },
-            {
                 "individual_id": 406,
                 "name": "Lanier, Roland Edwin",
                 "years": "1872–1932",
                 "birth_year": "1872",
                 "death_year": "1932",
                 "findagrave_id": "85769497"
+            },
+            {
+                "individual_id": 407,
+                "name": "Lanier, Roland Edwin",
+                "years": "1905–1967",
+                "birth_year": "1905",
+                "death_year": "1967",
+                "findagrave_id": "85769443"
             },
             {
                 "individual_id": 1375,
@@ -2328,6 +2328,14 @@
                 "familysearch_id": "G28B-CFQ"
             },
             {
+                "individual_id": 690,
+                "name": "Simpson, Infant Son",
+                "years": "1906–1906",
+                "birth_year": "1906",
+                "death_year": "1906",
+                "findagrave_id": "84346674"
+            },
+            {
                 "individual_id": 687,
                 "name": "Simpson, Infant Son",
                 "years": "1899–1899",
@@ -2342,14 +2350,6 @@
                 "birth_year": "1902",
                 "death_year": "",
                 "findagrave_id": "84346654"
-            },
-            {
-                "individual_id": 690,
-                "name": "Simpson, Infant Son",
-                "years": "1906–1906",
-                "birth_year": "1906",
-                "death_year": "1906",
-                "findagrave_id": "84346674"
             },
             {
                 "individual_id": 697,
@@ -3939,20 +3939,20 @@
         ],
         "C-2": [
             {
-                "individual_id": 632,
-                "name": " [Robertson], Ella C",
-                "years": "1853–1901",
-                "birth_year": "1853",
-                "death_year": "1901",
-                "findagrave_id": "85586415"
-            },
-            {
                 "individual_id": 1034,
                 "name": "Blackburn [Bolton], Frances Lucile",
                 "years": "1917–2002",
                 "birth_year": "1917",
                 "death_year": "2002",
                 "findagrave_id": "85700381"
+            },
+            {
+                "individual_id": 632,
+                "name": "Bolton [Robertson], Elinda Colly",
+                "years": "1853–1901",
+                "birth_year": "1853",
+                "death_year": "1901",
+                "findagrave_id": "85586415"
             },
             {
                 "individual_id": 2395,
@@ -5148,14 +5148,6 @@
                 "familysearch_id": "GML7-T7V"
             },
             {
-                "individual_id": 431,
-                "name": "Lindsey, James Walter",
-                "years": "1911–1918",
-                "birth_year": "1911",
-                "death_year": "1918",
-                "findagrave_id": "53492047"
-            },
-            {
                 "individual_id": 430,
                 "name": "Lindsey, James Walter",
                 "years": "1887–1978",
@@ -5163,6 +5155,14 @@
                 "death_year": "1978",
                 "findagrave_id": "53492029",
                 "familysearch_id": "GMLQ-K1K"
+            },
+            {
+                "individual_id": 431,
+                "name": "Lindsey, James Walter",
+                "years": "1911–1918",
+                "birth_year": "1911",
+                "death_year": "1918",
+                "findagrave_id": "53492047"
             },
             {
                 "individual_id": 453,
