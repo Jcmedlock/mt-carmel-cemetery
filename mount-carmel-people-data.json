@@ -8044,7 +8044,7 @@
             "cemetery": ""
         },
         "1370": {
-            "name": "Sarah Jane Shamley [Martin]",
+            "name": "Sarah Jane Shamblee [Martin]",
             "birth_date": "1844",
             "death_date": "1882",
             "birth_year": 1844,
@@ -8167,14 +8167,6 @@
             "death_year": 1989,
             "cemetery": "Peachtree Memorial Park",
             "findagrave_id": "163840530"
-        },
-        "1390": {
-            "name": "Mary  Shamley",
-            "birth_date": "1852",
-            "death_date": "",
-            "birth_year": 1852,
-            "death_year": "",
-            "cemetery": ""
         },
         "1394": {
             "name": "John C Martin",
@@ -9969,7 +9961,7 @@
             "cemetery": ""
         },
         "1955": {
-            "name": "Mary Ann Mills",
+            "name": "Mary Ann Shamblee [Mills]",
             "birth_date": "1853",
             "death_date": "April 18, 1938",
             "birth_year": 1853,
@@ -9983,27 +9975,29 @@
             "death_date": "October 14, 1918",
             "birth_year": 1875,
             "death_year": 1918,
-            "cemetery": ""
+            "cemetery": "",
+            "findagrave_id": "45142035"
         },
         "1957": {
-            "name": "Claude Sr Mills",
+            "name": "Claude  Mills Sr.",
             "birth_date": "February 3, 1882",
             "death_date": "May 12, 1956",
             "birth_year": 1882,
             "death_year": 1956,
-            "cemetery": ""
+            "cemetery": "",
+            "findagrave_id": "244029854"
         },
         "1958": {
             "name": "Hugh Washington Mills Jr.",
             "birth_date": "1813",
-            "death_date": "",
+            "death_date": "February 16, 1859",
             "birth_year": 1813,
-            "death_year": "",
+            "death_year": 1859,
             "cemetery": "",
             "familysearch_id": "KCJD-1QY"
         },
         "1959": {
-            "name": "Syntha Ann Mcewing",
+            "name": "Syntha Ann Mcewing [Mills]",
             "birth_date": "1812",
             "death_date": "",
             "birth_year": 1812,
@@ -10019,16 +10013,8 @@
             "death_year": "",
             "cemetery": ""
         },
-        "1961": {
-            "name": "Rachael  Shamley",
-            "birth_date": "1844",
-            "death_date": "",
-            "birth_year": 1844,
-            "death_year": "",
-            "cemetery": ""
-        },
         "1962": {
-            "name": "Ruthey  Shamley",
+            "name": "Ruthey  Shamblee",
             "birth_date": "1850",
             "death_date": "",
             "birth_year": 1850,
@@ -10036,7 +10022,7 @@
             "cemetery": ""
         },
         "1964": {
-            "name": "John W Shamley",
+            "name": "John W. Shamblee",
             "birth_date": "1820",
             "death_date": "",
             "birth_year": 1820,
@@ -10044,15 +10030,16 @@
             "cemetery": ""
         },
         "1965": {
-            "name": "Ruthey  Shamley",
+            "name": "Ruthey Addie Minor [Shamblee]",
             "birth_date": "1822",
             "death_date": "",
             "birth_year": 1822,
             "death_year": "",
-            "cemetery": ""
+            "cemetery": "",
+            "findagrave_id": "27345799"
         },
         "1967": {
-            "name": "Nancy  Shamley",
+            "name": "Nancy  Shamblee",
             "birth_date": "1848",
             "death_date": "",
             "birth_year": 1848,
@@ -10068,7 +10055,7 @@
             "cemetery": ""
         },
         "1971": {
-            "name": "Hugh Washington Mills",
+            "name": "Hugh Washington Mills III",
             "birth_date": "1842",
             "death_date": "September 28, 1919",
             "birth_year": 1842,
@@ -10118,12 +10105,13 @@
             "familysearch_id": "MW1Q-FDT"
         },
         "1977": {
-            "name": "C L Mills",
+            "name": "C. I. Mills",
             "birth_date": "1852",
             "death_date": "",
             "birth_year": 1852,
             "death_year": "",
-            "cemetery": ""
+            "cemetery": "",
+            "familysearch_id": "L2SF-441"
         },
         "1978": {
             "name": "Albert Preston Mills",
@@ -10166,7 +10154,7 @@
             "cemetery": ""
         },
         "2002": {
-            "name": "Rachel Shamblee Mills",
+            "name": "Rachel  Shamblee [Mills]",
             "birth_date": "January 15, 1844",
             "death_date": "September 26, 1921",
             "birth_year": 1844,
@@ -10175,7 +10163,7 @@
             "findagrave_id": "73164494"
         },
         "2005": {
-            "name": "William  Shamley",
+            "name": "William  Shamblee",
             "birth_date": "1843",
             "death_date": "",
             "birth_year": 1843,
@@ -10183,23 +10171,15 @@
             "cemetery": ""
         },
         "2006": {
-            "name": "Martha  Shamley",
+            "name": "Martha  Shamblee",
             "birth_date": "1846",
             "death_date": "",
             "birth_year": 1846,
             "death_year": "",
             "cemetery": ""
         },
-        "2007": {
-            "name": "Sarah  Shamley",
-            "birth_date": "",
-            "death_date": "",
-            "birth_year": "",
-            "death_year": "",
-            "cemetery": ""
-        },
         "2010": {
-            "name": "Lurane  Shamley",
+            "name": "Lurane  Shamblee",
             "birth_date": "1855",
             "death_date": "",
             "birth_year": 1855,
@@ -24478,12 +24458,9 @@
             "siblings": [
                 2010,
                 2006,
-                1390,
                 1967,
-                1961,
                 2002,
                 1962,
-                2007,
                 1370,
                 2005
             ]
