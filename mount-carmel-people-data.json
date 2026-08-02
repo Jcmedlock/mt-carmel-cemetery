@@ -775,6 +775,15 @@
             "findagrave_id": "49010935",
             "familysearch_id": "GMC6-B8C"
         },
+        "12": {
+            "name": "A. A. Allen Jr.",
+            "birth_date": "September 25, 1903",
+            "death_date": "November 30, 1904",
+            "birth_year": 1903,
+            "death_year": 1904,
+            "cemetery": "",
+            "findagrave_id": "8221293"
+        },
         "13": {
             "name": "Mary Adeline Ivy [Allen]",
             "birth_date": "May 29, 1884",
@@ -3093,7 +3102,7 @@
             "findagrave_id": "85765832"
         },
         "356": {
-            "name": "Ruth Adaline Chamblee [Ivy]",
+            "name": "Ruth Adaline Shamblee [Ivy]",
             "birth_date": "June 29, 1852",
             "death_date": "June 20, 1901",
             "birth_year": 1852,
@@ -8569,14 +8578,6 @@
             "death_year": "",
             "cemetery": ""
         },
-        "1462": {
-            "name": "A. A. Ivy [Allen]",
-            "birth_date": "",
-            "death_date": "",
-            "birth_year": "",
-            "death_year": "",
-            "cemetery": ""
-        },
         "1464": {
             "name": "Charlotte Lanier Dean",
             "birth_date": "August 19, 1907",
@@ -10010,14 +10011,6 @@
             "birth_date": "1878",
             "death_date": "",
             "birth_year": 1878,
-            "death_year": "",
-            "cemetery": ""
-        },
-        "1962": {
-            "name": "Ruthey  Shamblee",
-            "birth_date": "1850",
-            "death_date": "",
-            "birth_year": 1850,
             "death_year": "",
             "cemetery": ""
         },
@@ -14633,10 +14626,10 @@
             ],
             "spouses": [],
             "children": [
+                12,
                 14
             ],
             "siblings": [
-                1462,
                 332,
                 2644,
                 337,
@@ -14653,7 +14646,9 @@
                 2656
             ],
             "children": [],
-            "siblings": []
+            "siblings": [
+                12
+            ]
         },
         "17": {
             "parents": [],
@@ -17459,7 +17454,6 @@
             "spouses": [],
             "children": [],
             "siblings": [
-                1462,
                 2644,
                 337,
                 1460,
@@ -17530,7 +17524,6 @@
             "spouses": [],
             "children": [],
             "siblings": [
-                1462,
                 332,
                 2644,
                 1460,
@@ -17729,12 +17722,14 @@
             "siblings": []
         },
         "356": {
-            "parents": [],
+            "parents": [
+                1964,
+                1965
+            ],
             "spouses": [
                 1459
             ],
             "children": [
-                1462,
                 332,
                 2644,
                 337,
@@ -17742,7 +17737,15 @@
                 13,
                 1461
             ],
-            "siblings": []
+            "siblings": [
+                2010,
+                2006,
+                1955,
+                1967,
+                2002,
+                1370,
+                2005
+            ]
         },
         "357": {
             "parents": [
@@ -17753,7 +17756,6 @@
             ],
             "children": [],
             "siblings": [
-                1462,
                 332,
                 2644,
                 337,
@@ -23768,7 +23770,6 @@
                 356
             ],
             "children": [
-                1462,
                 332,
                 2644,
                 337,
@@ -24460,7 +24461,7 @@
                 2006,
                 1967,
                 2002,
-                1962,
+                356,
                 1370,
                 2005
             ]

@@ -625,20 +625,20 @@
                 "familysearch_id": "LZZM-5JQ"
             },
             {
-                "individual_id": 177,
-                "name": "Dean, Dave C.",
-                "years": "1878–1948",
-                "birth_year": "1878",
-                "death_year": "1948",
-                "findagrave_id": "85709722"
-            },
-            {
                 "individual_id": 176,
                 "name": "Dean, Dave C.",
                 "years": "1912–1932",
                 "birth_year": "1912",
                 "death_year": "1932",
                 "findagrave_id": "85709657"
+            },
+            {
+                "individual_id": 177,
+                "name": "Dean, Dave C.",
+                "years": "1878–1948",
+                "birth_year": "1878",
+                "death_year": "1948",
+                "findagrave_id": "85709722"
             },
             {
                 "individual_id": 178,
@@ -1907,15 +1907,6 @@
                 "findagrave_id": "9366744"
             },
             {
-                "individual_id": 356,
-                "name": "Chamblee [Ivy], Ruth Adaline",
-                "years": "1852–1901",
-                "birth_year": "1852",
-                "death_year": "1901",
-                "findagrave_id": "85765904",
-                "familysearch_id": "M5MK-8VF"
-            },
-            {
                 "individual_id": 394,
                 "name": "Duncan [Kirk], Minerva C.",
                 "years": "1847–1921",
@@ -2079,6 +2070,15 @@
                 "birth_year": "1909",
                 "death_year": "1911",
                 "findagrave_id": "9362497"
+            },
+            {
+                "individual_id": 356,
+                "name": "Shamblee [Ivy], Ruth Adaline",
+                "years": "1852–1901",
+                "birth_year": "1852",
+                "death_year": "1901",
+                "findagrave_id": "85765904",
+                "familysearch_id": "M5MK-8VF"
             },
             {
                 "individual_id": 719,
@@ -4986,6 +4986,14 @@
                 "findagrave_id": "53491915"
             },
             {
+                "individual_id": 732,
+                "name": "Summerlin, Samuel Joseph",
+                "years": "1914–1914",
+                "birth_year": "1914",
+                "death_year": "1914",
+                "findagrave_id": "53491730"
+            },
+            {
                 "individual_id": 733,
                 "name": "Summerlin, Samuel Joseph",
                 "years": "1892–1933",
@@ -4993,14 +5001,6 @@
                 "death_year": "1933",
                 "findagrave_id": "53491720",
                 "familysearch_id": "LH6P-RS1"
-            },
-            {
-                "individual_id": 732,
-                "name": "Summerlin, Samuel Joseph",
-                "years": "1914–1914",
-                "birth_year": "1914",
-                "death_year": "1914",
-                "findagrave_id": "53491730"
             },
             {
                 "individual_id": 239,
