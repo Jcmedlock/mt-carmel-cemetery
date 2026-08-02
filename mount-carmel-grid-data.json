@@ -1303,6 +1303,14 @@
                 "findagrave_id": "88510602"
             },
             {
+                "individual_id": 14,
+                "name": "Allen, Thomas William",
+                "years": "1906–1997",
+                "birth_year": "1906",
+                "death_year": "1997",
+                "findagrave_id": "85592822"
+            },
+            {
                 "individual_id": 259,
                 "name": "Arnold [Hamilton], Francis Caroline",
                 "years": "1834–1923",
@@ -1368,6 +1376,15 @@
                 "death_year": "1925",
                 "findagrave_id": "88515153",
                 "familysearch_id": "GZF5-XVX"
+            },
+            {
+                "individual_id": 13,
+                "name": "Ivy [Allen], Mary Adeline",
+                "years": "1884–1949",
+                "birth_year": "1884",
+                "death_year": "1949",
+                "findagrave_id": "85592769",
+                "familysearch_id": "GD4B-XXS"
             },
             {
                 "individual_id": 331,
@@ -6180,14 +6197,6 @@
         ],
         "E-8": [
             {
-                "individual_id": 14,
-                "name": "Allen, Thomas William",
-                "years": "1906–1997",
-                "birth_year": "1906",
-                "death_year": "1997",
-                "findagrave_id": "85592822"
-            },
-            {
                 "individual_id": 102,
                 "name": "Brannon [Brumbalow], Odell",
                 "years": "1889–1954",
@@ -6195,15 +6204,6 @@
                 "death_year": "1954",
                 "findagrave_id": "14445074",
                 "familysearch_id": "L8SH-9PR"
-            },
-            {
-                "individual_id": 13,
-                "name": "Ivy [Allen], Mary Adeline",
-                "years": "1884–1949",
-                "birth_year": "1884",
-                "death_year": "1949",
-                "findagrave_id": "85592769",
-                "familysearch_id": "GD4B-XXS"
             }
         ],
         "F-3": [
