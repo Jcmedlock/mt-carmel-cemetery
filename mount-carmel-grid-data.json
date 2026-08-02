@@ -1096,15 +1096,6 @@
                 "findagrave_id": "49041012"
             },
             {
-                "individual_id": 111,
-                "name": "Bush, Calvin",
-                "years": "1845–1924",
-                "birth_year": "1845",
-                "death_year": "1924",
-                "findagrave_id": "85707427",
-                "familysearch_id": "MB2R-JMK"
-            },
-            {
                 "individual_id": 112,
                 "name": "Bush, Calvin",
                 "years": "1889–1962",
@@ -1112,6 +1103,15 @@
                 "death_year": "1962",
                 "findagrave_id": "85707358",
                 "familysearch_id": "G9QG-QQK"
+            },
+            {
+                "individual_id": 111,
+                "name": "Bush, Calvin",
+                "years": "1845–1924",
+                "birth_year": "1845",
+                "death_year": "1924",
+                "findagrave_id": "85707427",
+                "familysearch_id": "MB2R-JMK"
             },
             {
                 "individual_id": 114,
@@ -1435,20 +1435,20 @@
                 "findagrave_id": "85769358"
             },
             {
-                "individual_id": 406,
-                "name": "Lanier, Roland Edwin",
-                "years": "1872–1932",
-                "birth_year": "1872",
-                "death_year": "1932",
-                "findagrave_id": "85769497"
-            },
-            {
                 "individual_id": 407,
                 "name": "Lanier, Roland Edwin",
                 "years": "1905–1967",
                 "birth_year": "1905",
                 "death_year": "1967",
                 "findagrave_id": "85769443"
+            },
+            {
+                "individual_id": 406,
+                "name": "Lanier, Roland Edwin",
+                "years": "1872–1932",
+                "birth_year": "1872",
+                "death_year": "1932",
+                "findagrave_id": "85769497"
             },
             {
                 "individual_id": 1375,
@@ -2322,6 +2322,14 @@
                 "familysearch_id": "G28B-CFQ"
             },
             {
+                "individual_id": 690,
+                "name": "Simpson, Infant Son",
+                "years": "1906–1906",
+                "birth_year": "1906",
+                "death_year": "1906",
+                "findagrave_id": "84346674"
+            },
+            {
                 "individual_id": 687,
                 "name": "Simpson, Infant Son",
                 "years": "1899–1899",
@@ -2336,14 +2344,6 @@
                 "birth_year": "1902",
                 "death_year": "",
                 "findagrave_id": "84346654"
-            },
-            {
-                "individual_id": 690,
-                "name": "Simpson, Infant Son",
-                "years": "1906–1906",
-                "birth_year": "1906",
-                "death_year": "1906",
-                "findagrave_id": "84346674"
             },
             {
                 "individual_id": 697,
