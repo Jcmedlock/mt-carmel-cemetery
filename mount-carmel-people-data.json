@@ -1,5 +1,5 @@
 {
-    "snapshot_date": "August 2, 2026",
+    "snapshot_date": "August 5, 2026",
     "detail_page_url": "/mt-carmel-cemetery-info",
     "primary": {
         "2": true,
@@ -734,7 +734,8 @@
         "2664": true,
         "2675": true,
         "12761": true,
-        "12851": true
+        "12851": true,
+        "12908": true
     },
     "people": {
         "2": {
@@ -5833,7 +5834,7 @@
             "familysearch_id": "LH6P-RS1"
         },
         "735": {
-            "name": "Frank A. Tatum",
+            "name": "Francis Asbury Tatum",
             "birth_date": "November 21, 1868",
             "death_date": "September 30, 1956",
             "birth_year": 1868,
@@ -5852,7 +5853,7 @@
             "familysearch_id": "LYG9-VHN"
         },
         "737": {
-            "name": "Lelar J. Tatum",
+            "name": "Lelar  Jones [Tatum]",
             "birth_date": "November 13, 1868",
             "death_date": "January 10, 1960",
             "birth_year": 1868,
@@ -8367,7 +8368,7 @@
             "familysearch_id": "L6RW-1XB"
         },
         "1425": {
-            "name": "Coy Belle Miller [Scott]",
+            "name": "Coy Belle Miller [Tatum Scott]",
             "birth_date": "June 18, 1895",
             "death_date": "March 27, 1988",
             "birth_year": 1895,
@@ -8411,7 +8412,7 @@
             "cemetery": ""
         },
         "1431": {
-            "name": "Mary Ruth Miller Ivy",
+            "name": "Mary Ruth Miller [Ivy]",
             "birth_date": "April 15, 1902",
             "death_date": "November 5, 1932",
             "birth_year": 1902,
@@ -9691,7 +9692,7 @@
             "death_date": "May 12, 1988",
             "birth_year": 1898,
             "death_year": 1988,
-            "cemetery": ""
+            "cemetery": "Peachtree Memorial Park"
         },
         "1906": {
             "name": "Bryant Ross Bolton",
@@ -10700,14 +10701,6 @@
             "findagrave_id": "85699887",
             "familysearch_id": "LRGB-3CQ"
         },
-        "2409": {
-            "name": "Ruby A Bolton",
-            "birth_date": "1901",
-            "death_date": "",
-            "birth_year": 1901,
-            "death_year": "",
-            "cemetery": ""
-        },
         "2410": {
             "name": "Benson Richardson Bolton",
             "birth_date": "May 10, 1879",
@@ -10806,7 +10799,7 @@
             "death_date": "June 20, 1900",
             "birth_year": 1854,
             "death_year": 1900,
-            "cemetery": "",
+            "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "familysearch_id": "MKNY-FSH"
         },
         "2423": {
@@ -12906,7 +12899,7 @@
             "familysearch_id": "LK72-NXM"
         },
         "9593": {
-            "name": "Pauline Tatum Martin",
+            "name": "Pauline  Tatum [Martin]",
             "birth_date": "December 9, 1907",
             "death_date": "April 10, 1936",
             "birth_year": 1907,
@@ -12971,7 +12964,7 @@
             "familysearch_id": "LKXP-5ZV"
         },
         "10100": {
-            "name": "Ruby Bolton McGee",
+            "name": "Ruby  Bolton [McGee]",
             "birth_date": "1901",
             "death_date": "1995",
             "birth_year": 1901,
@@ -15102,7 +15095,6 @@
             "children": [
                 2407,
                 264,
-                2409,
                 10100
             ],
             "siblings": []
@@ -15118,7 +15110,6 @@
                 2410,
                 2407,
                 264,
-                2409,
                 10100
             ]
         },
@@ -17003,7 +16994,6 @@
                 2410,
                 2407,
                 60,
-                2409,
                 10100
             ]
         },
@@ -21587,7 +21577,9 @@
                 735,
                 737
             ],
-            "spouses": [],
+            "spouses": [
+                1425
+            ],
             "children": [],
             "siblings": [
                 8412,
@@ -24836,7 +24828,6 @@
                 2407,
                 60,
                 264,
-                2409,
                 10100
             ],
             "siblings": [
@@ -24997,7 +24988,6 @@
                 2410,
                 60,
                 264,
-                2409,
                 10100
             ]
         },
@@ -25012,7 +25002,6 @@
                 2407,
                 60,
                 264,
-                2409,
                 10100
             ]
         },
@@ -25464,6 +25453,23 @@
                 420
             ],
             "siblings": []
+        },
+        "12908": {
+            "parents": [
+                508,
+                1427
+            ],
+            "spouses": [
+                12907
+            ],
+            "children": [
+                574,
+                576
+            ],
+            "siblings": [
+                505,
+                241
+            ]
         }
     }
 }

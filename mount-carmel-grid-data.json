@@ -1096,15 +1096,6 @@
                 "findagrave_id": "49041012"
             },
             {
-                "individual_id": 112,
-                "name": "Bush, Calvin",
-                "years": "1889–1962",
-                "birth_year": "1889",
-                "death_year": "1962",
-                "findagrave_id": "85707358",
-                "familysearch_id": "G9QG-QQK"
-            },
-            {
                 "individual_id": 111,
                 "name": "Bush, Calvin",
                 "years": "1845–1924",
@@ -1112,6 +1103,15 @@
                 "death_year": "1924",
                 "findagrave_id": "85707427",
                 "familysearch_id": "MB2R-JMK"
+            },
+            {
+                "individual_id": 112,
+                "name": "Bush, Calvin",
+                "years": "1889–1962",
+                "birth_year": "1889",
+                "death_year": "1962",
+                "findagrave_id": "85707358",
+                "familysearch_id": "G9QG-QQK"
             },
             {
                 "individual_id": 114,
@@ -2339,14 +2339,6 @@
                 "familysearch_id": "G28B-CFQ"
             },
             {
-                "individual_id": 690,
-                "name": "Simpson, Infant Son",
-                "years": "1906–1906",
-                "birth_year": "1906",
-                "death_year": "1906",
-                "findagrave_id": "84346674"
-            },
-            {
                 "individual_id": 687,
                 "name": "Simpson, Infant Son",
                 "years": "1899–1899",
@@ -2361,6 +2353,14 @@
                 "birth_year": "1902",
                 "death_year": "",
                 "findagrave_id": "84346654"
+            },
+            {
+                "individual_id": 690,
+                "name": "Simpson, Infant Son",
+                "years": "1906–1906",
+                "birth_year": "1906",
+                "death_year": "1906",
+                "findagrave_id": "84346674"
             },
             {
                 "individual_id": 697,
@@ -5004,14 +5004,6 @@
                 "findagrave_id": "53491915"
             },
             {
-                "individual_id": 732,
-                "name": "Summerlin, Samuel Joseph",
-                "years": "1914–1914",
-                "birth_year": "1914",
-                "death_year": "1914",
-                "findagrave_id": "53491730"
-            },
-            {
                 "individual_id": 733,
                 "name": "Summerlin, Samuel Joseph",
                 "years": "1892–1933",
@@ -5019,6 +5011,14 @@
                 "death_year": "1933",
                 "findagrave_id": "53491720",
                 "familysearch_id": "LH6P-RS1"
+            },
+            {
+                "individual_id": 732,
+                "name": "Summerlin, Samuel Joseph",
+                "years": "1914–1914",
+                "birth_year": "1914",
+                "death_year": "1914",
+                "findagrave_id": "53491730"
             },
             {
                 "individual_id": 239,
@@ -5167,6 +5167,14 @@
                 "familysearch_id": "GML7-T7V"
             },
             {
+                "individual_id": 431,
+                "name": "Lindsey, James Walter",
+                "years": "1911–1918",
+                "birth_year": "1911",
+                "death_year": "1918",
+                "findagrave_id": "53492047"
+            },
+            {
                 "individual_id": 430,
                 "name": "Lindsey, James Walter",
                 "years": "1887–1978",
@@ -5174,14 +5182,6 @@
                 "death_year": "1978",
                 "findagrave_id": "53492029",
                 "familysearch_id": "GMLQ-K1K"
-            },
-            {
-                "individual_id": 431,
-                "name": "Lindsey, James Walter",
-                "years": "1911–1918",
-                "birth_year": "1911",
-                "death_year": "1918",
-                "findagrave_id": "53492047"
             },
             {
                 "individual_id": 453,
@@ -5759,14 +5759,6 @@
         ],
         "E-1": [
             {
-                "individual_id": 268,
-                "name": "Adams [Harmon], Mary Parthernia",
-                "years": "1913–1943",
-                "birth_year": "1913",
-                "death_year": "1943",
-                "findagrave_id": "49010916"
-            },
-            {
                 "individual_id": 526,
                 "name": "Baker [Mitchell], Floy",
                 "years": "1878–1960",
@@ -5883,15 +5875,6 @@
                 "findagrave_id": "49040871"
             },
             {
-                "individual_id": 451,
-                "name": "Martin, Felix Mulno",
-                "years": "1872–1943",
-                "birth_year": "1872",
-                "death_year": "1943",
-                "findagrave_id": "49010953",
-                "familysearch_id": "LZ5R-PBX"
-            },
-            {
                 "individual_id": 529,
                 "name": "Mitchell, James Robert",
                 "years": "1869–1950",
@@ -5899,15 +5882,6 @@
                 "death_year": "1950",
                 "findagrave_id": "49416585",
                 "familysearch_id": "LYBR-955"
-            },
-            {
-                "individual_id": 8,
-                "name": "Pickens [Adams], Mamie F.",
-                "years": "1909–1964",
-                "birth_year": "1909",
-                "death_year": "1964",
-                "findagrave_id": "49010878",
-                "familysearch_id": "G84L-NCD"
             },
             {
                 "individual_id": 10,
@@ -5953,31 +5927,6 @@
                 "familysearch_id": "LKL7-9WH"
             },
             {
-                "individual_id": 735,
-                "name": "Tatum, Frank A.",
-                "years": "1868–1956",
-                "birth_year": "1868",
-                "death_year": "1956",
-                "findagrave_id": "49010663"
-            },
-            {
-                "individual_id": 736,
-                "name": "Tatum, Guy",
-                "years": "1894–1944",
-                "birth_year": "1894",
-                "death_year": "1944",
-                "findagrave_id": "49010864",
-                "familysearch_id": "LYG9-VHN"
-            },
-            {
-                "individual_id": 737,
-                "name": "Tatum, Lelar J.",
-                "years": "1868–1960",
-                "birth_year": "1868",
-                "death_year": "1960",
-                "findagrave_id": "49010648"
-            },
-            {
                 "individual_id": 740,
                 "name": "Terrell, Hiram Abiff",
                 "years": "1897–1956",
@@ -6015,14 +5964,6 @@
                 "familysearch_id": "LKL7-R3W"
             },
             {
-                "individual_id": 240,
-                "name": "Greene, James B.",
-                "years": "1922–2002",
-                "birth_year": "1922",
-                "death_year": "2002",
-                "findagrave_id": "49010705"
-            },
-            {
                 "individual_id": 286,
                 "name": "Holbrook, Johnny W",
                 "years": "1903–1979",
@@ -6037,32 +5978,6 @@
                 "birth_year": "1904",
                 "death_year": "1988",
                 "findagrave_id": "49040820"
-            },
-            {
-                "individual_id": 241,
-                "name": "Miller [Greene], Ruth Estelle",
-                "years": "1930–1999",
-                "birth_year": "1930",
-                "death_year": "1999",
-                "findagrave_id": "49010717"
-            },
-            {
-                "individual_id": 1427,
-                "name": "Miller, Hugh",
-                "years": "1899–1970",
-                "birth_year": "1899",
-                "death_year": "1970",
-                "findagrave_id": "49010813",
-                "familysearch_id": "GWC1-N9F"
-            },
-            {
-                "individual_id": 567,
-                "name": "Neal, Clifford S.",
-                "years": "1908–1967",
-                "birth_year": "1908",
-                "death_year": "1967",
-                "findagrave_id": "49010754",
-                "familysearch_id": "L243-5F5"
             },
             {
                 "individual_id": 613,
@@ -6108,24 +6023,6 @@
                 "findagrave_id": "85817013"
             },
             {
-                "individual_id": 745,
-                "name": "Stalcup [Morton Thomason], Nora Fisher",
-                "years": "1910–1991",
-                "birth_year": "1910",
-                "death_year": "1991",
-                "findagrave_id": "49040791",
-                "familysearch_id": "LTV6-56W"
-            },
-            {
-                "individual_id": 743,
-                "name": "Thomason, Carl Ira",
-                "years": "1907–1946",
-                "birth_year": "1907",
-                "death_year": "1946",
-                "findagrave_id": "49040778",
-                "familysearch_id": "MT31-N7C"
-            },
-            {
                 "individual_id": 746,
                 "name": "Thomason, William Jackson",
                 "years": "1877–1950",
@@ -6133,14 +6030,6 @@
                 "death_year": "1950",
                 "findagrave_id": "49040751",
                 "familysearch_id": "2S6T-XRL"
-            },
-            {
-                "individual_id": 508,
-                "name": "Tyson [Miller], Estelle",
-                "years": "1908–2002",
-                "birth_year": "1908",
-                "death_year": "2002",
-                "findagrave_id": "49010826"
             },
             {
                 "individual_id": 815,
@@ -6179,6 +6068,24 @@
                 "findagrave_id": "199533981"
             },
             {
+                "individual_id": 745,
+                "name": "Stalcup [Morton Thomason], Nora Fisher",
+                "years": "1910–1991",
+                "birth_year": "1910",
+                "death_year": "1991",
+                "findagrave_id": "49040791",
+                "familysearch_id": "LTV6-56W"
+            },
+            {
+                "individual_id": 743,
+                "name": "Thomason, Carl Ira",
+                "years": "1907–1946",
+                "birth_year": "1907",
+                "death_year": "1946",
+                "findagrave_id": "49040778",
+                "familysearch_id": "MT31-N7C"
+            },
+            {
                 "individual_id": 783,
                 "name": "Unknown",
                 "years": "",
@@ -6206,7 +6113,51 @@
                 "familysearch_id": "L8SH-9PR"
             }
         ],
+        "F-2": [
+            {
+                "individual_id": 451,
+                "name": "Martin, Felix Mulno",
+                "years": "1872–1943",
+                "birth_year": "1872",
+                "death_year": "1943",
+                "findagrave_id": "49010953",
+                "familysearch_id": "LZ5R-PBX"
+            }
+        ],
         "F-3": [
+            {
+                "individual_id": 268,
+                "name": "Adams [Harmon], Mary Parthernia",
+                "years": "1913–1943",
+                "birth_year": "1913",
+                "death_year": "1943",
+                "findagrave_id": "49010916"
+            },
+            {
+                "individual_id": 737,
+                "name": "Jones [Tatum], Lelar",
+                "years": "1868–1960",
+                "birth_year": "1868",
+                "death_year": "1960",
+                "findagrave_id": "49010648"
+            },
+            {
+                "individual_id": 12908,
+                "name": "Miller [Oliver], Irene",
+                "years": "1931–2013",
+                "birth_year": "1931",
+                "death_year": "2013",
+                "findagrave_id": "111880918"
+            },
+            {
+                "individual_id": 1427,
+                "name": "Miller, Hugh",
+                "years": "1899–1970",
+                "birth_year": "1899",
+                "death_year": "1970",
+                "findagrave_id": "49010813",
+                "familysearch_id": "GWC1-N9F"
+            },
             {
                 "individual_id": 574,
                 "name": "Oliver, Archie Bryan",
@@ -6221,6 +6172,67 @@
                 "birth_year": "1954",
                 "death_year": "2000",
                 "findagrave_id": "49010682"
+            },
+            {
+                "individual_id": 8,
+                "name": "Pickens [Adams], Mamie F.",
+                "years": "1909–1964",
+                "birth_year": "1909",
+                "death_year": "1964",
+                "findagrave_id": "49010878",
+                "familysearch_id": "G84L-NCD"
+            },
+            {
+                "individual_id": 735,
+                "name": "Tatum, Francis Asbury",
+                "years": "1868–1956",
+                "birth_year": "1868",
+                "death_year": "1956",
+                "findagrave_id": "49010663"
+            },
+            {
+                "individual_id": 736,
+                "name": "Tatum, Guy",
+                "years": "1894–1944",
+                "birth_year": "1894",
+                "death_year": "1944",
+                "findagrave_id": "49010864",
+                "familysearch_id": "LYG9-VHN"
+            },
+            {
+                "individual_id": 508,
+                "name": "Tyson [Miller], Estelle",
+                "years": "1908–2002",
+                "birth_year": "1908",
+                "death_year": "2002",
+                "findagrave_id": "49010826"
+            }
+        ],
+        "F-4": [
+            {
+                "individual_id": 240,
+                "name": "Greene, James B.",
+                "years": "1922–2002",
+                "birth_year": "1922",
+                "death_year": "2002",
+                "findagrave_id": "49010705"
+            },
+            {
+                "individual_id": 241,
+                "name": "Miller [Greene], Ruth Estelle",
+                "years": "1930–1999",
+                "birth_year": "1930",
+                "death_year": "1999",
+                "findagrave_id": "49010717"
+            },
+            {
+                "individual_id": 567,
+                "name": "Neal, Clifford S.",
+                "years": "1908–1967",
+                "birth_year": "1908",
+                "death_year": "1967",
+                "findagrave_id": "49010754",
+                "familysearch_id": "L243-5F5"
             }
         ]
     }
