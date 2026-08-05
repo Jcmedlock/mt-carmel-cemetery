@@ -1088,14 +1088,6 @@
         ],
         "A-6": [
             {
-                "individual_id": 110,
-                "name": "Bush, Bertha",
-                "years": "1881–1953",
-                "birth_year": "1881",
-                "death_year": "1953",
-                "findagrave_id": "49041012"
-            },
-            {
                 "individual_id": 111,
                 "name": "Bush, Calvin",
                 "years": "1845–1924",
@@ -4563,15 +4555,6 @@
         ],
         "C-6": [
             {
-                "individual_id": 877,
-                "name": "Brumbelow, John Patterson",
-                "years": "1849–1927",
-                "birth_year": "1849",
-                "death_year": "1927",
-                "findagrave_id": "14427979",
-                "familysearch_id": "L8S4-TKB"
-            },
-            {
                 "individual_id": 232,
                 "name": "Fox, Arrie",
                 "years": "1881–1968",
@@ -5671,14 +5654,6 @@
                 "findagrave_id": "88577320"
             },
             {
-                "individual_id": 117,
-                "name": "Bush, Ovid",
-                "years": "1883–1952",
-                "birth_year": "1883",
-                "death_year": "1952",
-                "findagrave_id": "49040998"
-            },
-            {
                 "individual_id": 982,
                 "name": "Chalker [Medlock], Frances Marion",
                 "years": "1933–1999",
@@ -5755,6 +5730,17 @@
                 "death_year": "1930",
                 "findagrave_id": "27334207",
                 "familysearch_id": "K48T-WRZ"
+            }
+        ],
+        "D-6": [
+            {
+                "individual_id": 877,
+                "name": "Brumbelow, John Patterson",
+                "years": "1849–1927",
+                "birth_year": "1849",
+                "death_year": "1927",
+                "findagrave_id": "14427979",
+                "familysearch_id": "L8S4-TKB"
             }
         ],
         "E-1": [
@@ -6060,12 +6046,28 @@
         ],
         "E-5": [
             {
+                "individual_id": 110,
+                "name": " [Bush], Bertha",
+                "years": "1881–1953",
+                "birth_year": "1881",
+                "death_year": "1953",
+                "findagrave_id": "49041012"
+            },
+            {
                 "individual_id": 812,
                 "name": "Brown [Wigginton], Martha L.",
                 "years": "1941–2011",
                 "birth_year": "1941",
                 "death_year": "2011",
                 "findagrave_id": "199533981"
+            },
+            {
+                "individual_id": 117,
+                "name": "Bush, Ovid",
+                "years": "1883–1952",
+                "birth_year": "1883",
+                "death_year": "1952",
+                "findagrave_id": "49040998"
             },
             {
                 "individual_id": 745,
