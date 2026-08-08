@@ -1,5 +1,5 @@
 {
-    "snapshot_date": "August 5, 2026",
+    "snapshot_date": "August 8, 2026",
     "detail_page_url": "/mt-carmel-cemetery-info",
     "primary": {
         "2": true,
@@ -14606,6 +14606,15 @@
             "cemetery": "",
             "findagrave_id": "99683162",
             "familysearch_id": "G2X4-GJJ"
+        },
+        "15970": {
+            "name": "Wilson Lumpkin Mitchell",
+            "birth_date": "February 2, 1820",
+            "death_date": "August 5, 1877",
+            "birth_year": 1820,
+            "death_year": 1877,
+            "cemetery": "Cremated, Other",
+            "findagrave_id": "123084502"
         }
     },
     "families": {
@@ -19453,7 +19462,7 @@
         "529": {
             "parents": [
                 2363,
-                2362
+                15970
             ],
             "spouses": [
                 526
@@ -19468,7 +19477,8 @@
                 11065
             ],
             "siblings": [
-                2894
+                2894,
+                691
             ]
         },
         "534": {
@@ -20998,7 +21008,10 @@
             ]
         },
         "691": {
-            "parents": [],
+            "parents": [
+                2363,
+                2362
+            ],
             "spouses": [
                 2199
             ],
@@ -21008,7 +21021,10 @@
                 694,
                 703
             ],
-            "siblings": []
+            "siblings": [
+                2894,
+                529
+            ]
         },
         "692": {
             "parents": [
