@@ -1444,20 +1444,20 @@
                 "findagrave_id": "85769358"
             },
             {
-                "individual_id": 407,
-                "name": "Lanier, Roland Edwin",
-                "years": "1905–1967",
-                "birth_year": "1905",
-                "death_year": "1967",
-                "findagrave_id": "85769443"
-            },
-            {
                 "individual_id": 406,
                 "name": "Lanier, Roland Edwin",
                 "years": "1872–1932",
                 "birth_year": "1872",
                 "death_year": "1932",
                 "findagrave_id": "85769497"
+            },
+            {
+                "individual_id": 407,
+                "name": "Lanier, Roland Edwin",
+                "years": "1905–1967",
+                "birth_year": "1905",
+                "death_year": "1967",
+                "findagrave_id": "85769443"
             },
             {
                 "individual_id": 1375,
@@ -2331,14 +2331,6 @@
                 "familysearch_id": "G28B-CFQ"
             },
             {
-                "individual_id": 687,
-                "name": "Simpson, Infant Son",
-                "years": "1899–1899",
-                "birth_year": "1899",
-                "death_year": "1899",
-                "findagrave_id": "84346640"
-            },
-            {
                 "individual_id": 688,
                 "name": "Simpson, Infant Son",
                 "years": "1902–",
@@ -2353,6 +2345,14 @@
                 "birth_year": "1906",
                 "death_year": "1906",
                 "findagrave_id": "84346674"
+            },
+            {
+                "individual_id": 687,
+                "name": "Simpson, Infant Son",
+                "years": "1899–1899",
+                "birth_year": "1899",
+                "death_year": "1899",
+                "findagrave_id": "84346640"
             },
             {
                 "individual_id": 697,
@@ -5150,6 +5150,14 @@
                 "familysearch_id": "GML7-T7V"
             },
             {
+                "individual_id": 431,
+                "name": "Lindsey, James Walter",
+                "years": "1911–1918",
+                "birth_year": "1911",
+                "death_year": "1918",
+                "findagrave_id": "53492047"
+            },
+            {
                 "individual_id": 430,
                 "name": "Lindsey, James Walter",
                 "years": "1887–1978",
@@ -5157,14 +5165,6 @@
                 "death_year": "1978",
                 "findagrave_id": "53492029",
                 "familysearch_id": "GMLQ-K1K"
-            },
-            {
-                "individual_id": 431,
-                "name": "Lindsey, James Walter",
-                "years": "1911–1918",
-                "birth_year": "1911",
-                "death_year": "1918",
-                "findagrave_id": "53492047"
             },
             {
                 "individual_id": 453,
@@ -6133,7 +6133,8 @@
                 "years": "1913–1943",
                 "birth_year": "1913",
                 "death_year": "1943",
-                "findagrave_id": "49010916"
+                "findagrave_id": "49010916",
+                "familysearch_id": "GS21-P94"
             },
             {
                 "individual_id": 737,
