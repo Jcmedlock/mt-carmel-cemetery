@@ -364,20 +364,20 @@
                 "findagrave_id": "65246675"
             },
             {
-                "individual_id": 1827,
-                "name": "Hunnicutt, William Reese",
-                "years": "1882–1944",
-                "birth_year": "1882",
-                "death_year": "1944",
-                "findagrave_id": "86135545"
-            },
-            {
                 "individual_id": 1829,
                 "name": "Hunnicutt, William Reese",
                 "years": "1914–2005",
                 "birth_year": "1914",
                 "death_year": "2005",
                 "findagrave_id": "65246763"
+            },
+            {
+                "individual_id": 1827,
+                "name": "Hunnicutt, William Reese",
+                "years": "1882–1944",
+                "birth_year": "1882",
+                "death_year": "1944",
+                "findagrave_id": "86135545"
             },
             {
                 "individual_id": 405,
@@ -625,20 +625,20 @@
                 "familysearch_id": "LZZM-5JQ"
             },
             {
-                "individual_id": 176,
-                "name": "Dean, Dave C.",
-                "years": "1912–1932",
-                "birth_year": "1912",
-                "death_year": "1932",
-                "findagrave_id": "85709657"
-            },
-            {
                 "individual_id": 177,
                 "name": "Dean, Dave C.",
                 "years": "1878–1948",
                 "birth_year": "1878",
                 "death_year": "1948",
                 "findagrave_id": "85709722"
+            },
+            {
+                "individual_id": 176,
+                "name": "Dean, Dave C.",
+                "years": "1912–1932",
+                "birth_year": "1912",
+                "death_year": "1932",
+                "findagrave_id": "85709657"
             },
             {
                 "individual_id": 178,
@@ -923,7 +923,8 @@
                 "years": "1824–1894",
                 "birth_year": "1824",
                 "death_year": "1894",
-                "findagrave_id": "66643261"
+                "findagrave_id": "66643261",
+                "familysearch_id": "K8GB-VT1"
             },
             {
                 "individual_id": 208,
@@ -1444,20 +1445,20 @@
                 "findagrave_id": "85769358"
             },
             {
-                "individual_id": 407,
-                "name": "Lanier, Roland Edwin",
-                "years": "1905–1967",
-                "birth_year": "1905",
-                "death_year": "1967",
-                "findagrave_id": "85769443"
-            },
-            {
                 "individual_id": 406,
                 "name": "Lanier, Roland Edwin",
                 "years": "1872–1932",
                 "birth_year": "1872",
                 "death_year": "1932",
                 "findagrave_id": "85769497"
+            },
+            {
+                "individual_id": 407,
+                "name": "Lanier, Roland Edwin",
+                "years": "1905–1967",
+                "birth_year": "1905",
+                "death_year": "1967",
+                "findagrave_id": "85769443"
             },
             {
                 "individual_id": 1375,
@@ -2331,6 +2332,14 @@
                 "familysearch_id": "G28B-CFQ"
             },
             {
+                "individual_id": 688,
+                "name": "Simpson, Infant Son",
+                "years": "1902–",
+                "birth_year": "1902",
+                "death_year": "",
+                "findagrave_id": "84346654"
+            },
+            {
                 "individual_id": 690,
                 "name": "Simpson, Infant Son",
                 "years": "1906–1906",
@@ -2345,14 +2354,6 @@
                 "birth_year": "1899",
                 "death_year": "1899",
                 "findagrave_id": "84346640"
-            },
-            {
-                "individual_id": 688,
-                "name": "Simpson, Infant Son",
-                "years": "1902–",
-                "birth_year": "1902",
-                "death_year": "",
-                "findagrave_id": "84346654"
             },
             {
                 "individual_id": 697,
@@ -6163,19 +6164,19 @@
                 "familysearch_id": "GWC1-N9F"
             },
             {
-                "individual_id": 574,
-                "name": "Oliver, Archie Bryan",
-                "years": "1953–1974",
-                "birth_year": "1953",
-                "death_year": "1974"
-            },
-            {
                 "individual_id": 12907,
                 "name": "Oliver, Archie Bryan",
                 "years": "1924–1991",
                 "birth_year": "1924",
                 "death_year": "1991",
                 "findagrave_id": "71993530"
+            },
+            {
+                "individual_id": 574,
+                "name": "Oliver, Archie Bryan",
+                "years": "1953–1974",
+                "birth_year": "1953",
+                "death_year": "1974"
             },
             {
                 "individual_id": 576,

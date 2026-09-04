@@ -1,5 +1,5 @@
 {
-    "snapshot_date": "August 30, 2026",
+    "snapshot_date": "September 4, 2026",
     "detail_page_url": "/mt-carmel-cemetery-info",
     "primary": {
         "2": true,
@@ -6595,7 +6595,8 @@
             "birth_year": 1824,
             "death_year": 1894,
             "cemetery": "Mount Carmel Methodist",
-            "findagrave_id": "66643261"
+            "findagrave_id": "66643261",
+            "familysearch_id": "K8GB-VT1"
         },
         "833": {
             "name": "Infant Son Youngblood",
@@ -14631,6 +14632,16 @@
             "findagrave_id": "149173889",
             "familysearch_id": "PFMJ-DPD"
         },
+        "15976": {
+            "name": "John Alvin Youngblood",
+            "birth_date": "October 23, 1859",
+            "death_date": "December 27, 1921",
+            "birth_year": 1859,
+            "death_year": 1921,
+            "cemetery": "New Armuchee Cemetery",
+            "findagrave_id": "73957813",
+            "familysearch_id": "K89Y-BK2"
+        },
         "15979": {
             "name": "John  Thomason",
             "birth_date": "April 9, 1826",
@@ -14711,6 +14722,52 @@
             "death_year": "",
             "cemetery": "",
             "familysearch_id": "LYZZ-QB8"
+        },
+        "15996": {
+            "name": "Robert Berry Duncan Jr.",
+            "birth_date": "November 10, 1798",
+            "death_date": "January 16, 1875",
+            "birth_year": 1798,
+            "death_year": 1875,
+            "cemetery": "",
+            "familysearch_id": "GKFX-61T"
+        },
+        "15997": {
+            "name": "Catherine H. Trogdon [Duncan]",
+            "birth_date": "1770",
+            "death_date": "1859",
+            "birth_year": 1770,
+            "death_year": 1859,
+            "cemetery": "",
+            "familysearch_id": "GKFX-XMQ"
+        },
+        "15998": {
+            "name": "Julia Ann Duncan",
+            "birth_date": "July 4, 1829",
+            "death_date": "October 30, 1888",
+            "birth_year": 1829,
+            "death_year": 1888,
+            "cemetery": "",
+            "familysearch_id": "27GG-X8H"
+        },
+        "15999": {
+            "name": "Joseph  Youngblood",
+            "birth_date": "1756",
+            "death_date": "February 12, 1835",
+            "birth_year": 1756,
+            "death_year": 1835,
+            "cemetery": "Burial Details Unknown",
+            "findagrave_id": "185313400",
+            "familysearch_id": "MNDH-9YW"
+        },
+        "16000": {
+            "name": "Susan Sarah Campbell",
+            "birth_date": "1802",
+            "death_date": "1880",
+            "birth_year": 1802,
+            "death_year": 1880,
+            "cemetery": "",
+            "familysearch_id": "L8B5-1S8"
         }
     },
     "families": {
@@ -16552,7 +16609,10 @@
             ]
         },
         "209": {
-            "parents": [],
+            "parents": [
+                15997,
+                15996
+            ],
             "spouses": [
                 201
             ],
@@ -16562,7 +16622,10 @@
                 208,
                 12807
             ],
-            "siblings": []
+            "siblings": [
+                832,
+                15998
+            ]
         },
         "210": {
             "parents": [
@@ -22701,12 +22764,22 @@
             "siblings": []
         },
         "832": {
-            "parents": [],
+            "parents": [
+                15997,
+                15996
+            ],
             "spouses": [
                 834
             ],
-            "children": [],
-            "siblings": []
+            "children": [
+                15976,
+                840,
+                842
+            ],
+            "siblings": [
+                15998,
+                209
+            ]
         },
         "833": {
             "parents": [
@@ -22720,11 +22793,18 @@
             ]
         },
         "834": {
-            "parents": [],
+            "parents": [
+                15999,
+                16000
+            ],
             "spouses": [
                 832
             ],
-            "children": [],
+            "children": [
+                15976,
+                840,
+                842
+            ],
             "siblings": []
         },
         "835": {
@@ -22782,7 +22862,10 @@
             "siblings": []
         },
         "840": {
-            "parents": [],
+            "parents": [
+                832,
+                834
+            ],
             "spouses": [
                 837
             ],
@@ -22794,7 +22877,10 @@
                 835,
                 3468
             ],
-            "siblings": []
+            "siblings": [
+                15976,
+                842
+            ]
         },
         "841": {
             "parents": [
@@ -22808,7 +22894,10 @@
             ]
         },
         "842": {
-            "parents": [],
+            "parents": [
+                832,
+                834
+            ],
             "spouses": [
                 836
             ],
@@ -22816,7 +22905,10 @@
                 3084,
                 12844
             ],
-            "siblings": []
+            "siblings": [
+                15976,
+                840
+            ]
         },
         "843": {
             "parents": [
