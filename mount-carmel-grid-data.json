@@ -625,20 +625,20 @@
                 "familysearch_id": "LZZM-5JQ"
             },
             {
-                "individual_id": 177,
-                "name": "Dean, Dave C.",
-                "years": "1878–1948",
-                "birth_year": "1878",
-                "death_year": "1948",
-                "findagrave_id": "85709722"
-            },
-            {
                 "individual_id": 176,
                 "name": "Dean, Dave C.",
                 "years": "1912–1932",
                 "birth_year": "1912",
                 "death_year": "1932",
                 "findagrave_id": "85709657"
+            },
+            {
+                "individual_id": 177,
+                "name": "Dean, Dave C.",
+                "years": "1878–1948",
+                "birth_year": "1878",
+                "death_year": "1948",
+                "findagrave_id": "85709722"
             },
             {
                 "individual_id": 178,
@@ -1445,20 +1445,20 @@
                 "findagrave_id": "85769358"
             },
             {
-                "individual_id": 407,
-                "name": "Lanier, Roland Edwin",
-                "years": "1905–1967",
-                "birth_year": "1905",
-                "death_year": "1967",
-                "findagrave_id": "85769443"
-            },
-            {
                 "individual_id": 406,
                 "name": "Lanier, Roland Edwin",
                 "years": "1872–1932",
                 "birth_year": "1872",
                 "death_year": "1932",
                 "findagrave_id": "85769497"
+            },
+            {
+                "individual_id": 407,
+                "name": "Lanier, Roland Edwin",
+                "years": "1905–1967",
+                "birth_year": "1905",
+                "death_year": "1967",
+                "findagrave_id": "85769443"
             },
             {
                 "individual_id": 1375,
@@ -1546,6 +1546,14 @@
                 "findagrave_id": "85777453"
             },
             {
+                "individual_id": 8655,
+                "name": "Miller [Martin], Maggie Lou",
+                "years": "1910–1962",
+                "birth_year": "1910",
+                "death_year": "1962",
+                "findagrave_id": "157103686"
+            },
+            {
                 "individual_id": 607,
                 "name": "Pool, Infant Daughter",
                 "years": "1898–1898",
@@ -1592,6 +1600,14 @@
                 "birth_year": "1866",
                 "death_year": "1930",
                 "findagrave_id": "69454619"
+            },
+            {
+                "individual_id": 9593,
+                "name": "Tatum [Martin], Pauline",
+                "years": "1907–1936",
+                "birth_year": "1907",
+                "death_year": "1936",
+                "findagrave_id": "198892357"
             }
         ],
         "A-8": [
@@ -2249,6 +2265,14 @@
                 "findagrave_id": "84345720"
             },
             {
+                "individual_id": 2423,
+                "name": "Partridge, Frank Sanders",
+                "years": "1898–1967",
+                "birth_year": "1898",
+                "death_year": "1967",
+                "familysearch_id": "G96Z-TL1"
+            },
+            {
                 "individual_id": 586,
                 "name": "Partridge, Infant Daughter",
                 "years": "",
@@ -2332,14 +2356,6 @@
                 "familysearch_id": "G28B-CFQ"
             },
             {
-                "individual_id": 688,
-                "name": "Simpson, Infant Son",
-                "years": "1902–",
-                "birth_year": "1902",
-                "death_year": "",
-                "findagrave_id": "84346654"
-            },
-            {
                 "individual_id": 690,
                 "name": "Simpson, Infant Son",
                 "years": "1906–1906",
@@ -2354,6 +2370,14 @@
                 "birth_year": "1899",
                 "death_year": "1899",
                 "findagrave_id": "84346640"
+            },
+            {
+                "individual_id": 688,
+                "name": "Simpson, Infant Son",
+                "years": "1902–",
+                "birth_year": "1902",
+                "death_year": "",
+                "findagrave_id": "84346654"
             },
             {
                 "individual_id": 697,
@@ -2821,6 +2845,14 @@
                 "birth_year": "1930",
                 "death_year": "",
                 "findagrave_id": "85806438"
+            },
+            {
+                "individual_id": 599,
+                "name": "Pittman, Emily E.",
+                "years": "1831–1852",
+                "birth_year": "1831",
+                "death_year": "1852",
+                "findagrave_id": "144565320"
             },
             {
                 "individual_id": 601,
@@ -4988,14 +5020,6 @@
                 "findagrave_id": "53491915"
             },
             {
-                "individual_id": 732,
-                "name": "Summerlin, Samuel Joseph",
-                "years": "1914–1914",
-                "birth_year": "1914",
-                "death_year": "1914",
-                "findagrave_id": "53491730"
-            },
-            {
                 "individual_id": 733,
                 "name": "Summerlin, Samuel Joseph",
                 "years": "1892–1933",
@@ -5003,6 +5027,14 @@
                 "death_year": "1933",
                 "findagrave_id": "53491720",
                 "familysearch_id": "LH6P-RS1"
+            },
+            {
+                "individual_id": 732,
+                "name": "Summerlin, Samuel Joseph",
+                "years": "1914–1914",
+                "birth_year": "1914",
+                "death_year": "1914",
+                "findagrave_id": "53491730"
             },
             {
                 "individual_id": 239,
@@ -5151,6 +5183,14 @@
                 "familysearch_id": "GML7-T7V"
             },
             {
+                "individual_id": 431,
+                "name": "Lindsey, James Walter",
+                "years": "1911–1918",
+                "birth_year": "1911",
+                "death_year": "1918",
+                "findagrave_id": "53492047"
+            },
+            {
                 "individual_id": 430,
                 "name": "Lindsey, James Walter",
                 "years": "1887–1978",
@@ -5158,14 +5198,6 @@
                 "death_year": "1978",
                 "findagrave_id": "53492029",
                 "familysearch_id": "GMLQ-K1K"
-            },
-            {
-                "individual_id": 431,
-                "name": "Lindsey, James Walter",
-                "years": "1911–1918",
-                "birth_year": "1911",
-                "death_year": "1918",
-                "findagrave_id": "53492047"
             },
             {
                 "individual_id": 453,
@@ -6164,19 +6196,19 @@
                 "familysearch_id": "GWC1-N9F"
             },
             {
+                "individual_id": 574,
+                "name": "Oliver, Archie Bryan",
+                "years": "1953–1974",
+                "birth_year": "1953",
+                "death_year": "1974"
+            },
+            {
                 "individual_id": 12907,
                 "name": "Oliver, Archie Bryan",
                 "years": "1924–1991",
                 "birth_year": "1924",
                 "death_year": "1991",
                 "findagrave_id": "71993530"
-            },
-            {
-                "individual_id": 574,
-                "name": "Oliver, Archie Bryan",
-                "years": "1953–1974",
-                "birth_year": "1953",
-                "death_year": "1974"
             },
             {
                 "individual_id": 576,
