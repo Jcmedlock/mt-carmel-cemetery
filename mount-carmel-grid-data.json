@@ -364,20 +364,20 @@
                 "findagrave_id": "65246675"
             },
             {
-                "individual_id": 1829,
-                "name": "Hunnicutt, William Reese",
-                "years": "1914–2005",
-                "birth_year": "1914",
-                "death_year": "2005",
-                "findagrave_id": "65246763"
-            },
-            {
                 "individual_id": 1827,
                 "name": "Hunnicutt, William Reese",
                 "years": "1882–1944",
                 "birth_year": "1882",
                 "death_year": "1944",
                 "findagrave_id": "86135545"
+            },
+            {
+                "individual_id": 1829,
+                "name": "Hunnicutt, William Reese",
+                "years": "1914–2005",
+                "birth_year": "1914",
+                "death_year": "2005",
+                "findagrave_id": "65246763"
             },
             {
                 "individual_id": 405,
@@ -1445,20 +1445,20 @@
                 "findagrave_id": "85769358"
             },
             {
-                "individual_id": 406,
-                "name": "Lanier, Roland Edwin",
-                "years": "1872–1932",
-                "birth_year": "1872",
-                "death_year": "1932",
-                "findagrave_id": "85769497"
-            },
-            {
                 "individual_id": 407,
                 "name": "Lanier, Roland Edwin",
                 "years": "1905–1967",
                 "birth_year": "1905",
                 "death_year": "1967",
                 "findagrave_id": "85769443"
+            },
+            {
+                "individual_id": 406,
+                "name": "Lanier, Roland Edwin",
+                "years": "1872–1932",
+                "birth_year": "1872",
+                "death_year": "1932",
+                "findagrave_id": "85769497"
             },
             {
                 "individual_id": 1375,
@@ -4988,6 +4988,14 @@
                 "findagrave_id": "53491915"
             },
             {
+                "individual_id": 732,
+                "name": "Summerlin, Samuel Joseph",
+                "years": "1914–1914",
+                "birth_year": "1914",
+                "death_year": "1914",
+                "findagrave_id": "53491730"
+            },
+            {
                 "individual_id": 733,
                 "name": "Summerlin, Samuel Joseph",
                 "years": "1892–1933",
@@ -4995,14 +5003,6 @@
                 "death_year": "1933",
                 "findagrave_id": "53491720",
                 "familysearch_id": "LH6P-RS1"
-            },
-            {
-                "individual_id": 732,
-                "name": "Summerlin, Samuel Joseph",
-                "years": "1914–1914",
-                "birth_year": "1914",
-                "death_year": "1914",
-                "findagrave_id": "53491730"
             },
             {
                 "individual_id": 239,
