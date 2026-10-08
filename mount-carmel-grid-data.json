@@ -316,7 +316,7 @@
             },
             {
                 "individual_id": 1826,
-                "name": "Hunnicutt, Alice E.",
+                "name": "Hunnicutt [Hunnicutt], Alice E.",
                 "years": "–1920",
                 "birth_year": "",
                 "death_year": "1920",
@@ -625,20 +625,20 @@
                 "familysearch_id": "LZZM-5JQ"
             },
             {
-                "individual_id": 176,
-                "name": "Dean, Dave C.",
-                "years": "1912–1932",
-                "birth_year": "1912",
-                "death_year": "1932",
-                "findagrave_id": "85709657"
-            },
-            {
                 "individual_id": 177,
                 "name": "Dean, Dave C.",
                 "years": "1878–1948",
                 "birth_year": "1878",
                 "death_year": "1948",
                 "findagrave_id": "85709722"
+            },
+            {
+                "individual_id": 176,
+                "name": "Dean, Dave C.",
+                "years": "1912–1932",
+                "birth_year": "1912",
+                "death_year": "1932",
+                "findagrave_id": "85709657"
             },
             {
                 "individual_id": 178,
@@ -716,12 +716,11 @@
             },
             {
                 "individual_id": 1457,
-                "name": "Ivy, Edgar Layfatte",
+                "name": "Ivy, Edgar Lafayette",
                 "years": "1858–1939",
                 "birth_year": "1858",
                 "death_year": "1939",
-                "findagrave_id": "86281643",
-                "familysearch_id": "4QS8-XDC"
+                "findagrave_id": "86281643"
             },
             {
                 "individual_id": 464,
@@ -795,7 +794,7 @@
             },
             {
                 "individual_id": 2024,
-                "name": "Arnold, William",
+                "name": "Arnold, William Henry",
                 "years": "1775–1840",
                 "birth_year": "1775",
                 "death_year": "1840",
@@ -2207,14 +2206,6 @@
                 "familysearch_id": "K2VK-C2L"
             },
             {
-                "individual_id": 275,
-                "name": "Henderson, Dinnah Kent",
-                "years": "1872–1931",
-                "birth_year": "1872",
-                "death_year": "1931",
-                "findagrave_id": "84343820"
-            },
-            {
                 "individual_id": 276,
                 "name": "Henderson, Grace O.",
                 "years": "1912–2006",
@@ -2263,6 +2254,14 @@
                 "birth_year": "",
                 "death_year": "",
                 "findagrave_id": "84345720"
+            },
+            {
+                "individual_id": 275,
+                "name": "Kent [Henderson], Dinnah",
+                "years": "1872–1931",
+                "birth_year": "1872",
+                "death_year": "1931",
+                "findagrave_id": "84343820"
             },
             {
                 "individual_id": 2423,
@@ -2356,6 +2355,14 @@
                 "familysearch_id": "G28B-CFQ"
             },
             {
+                "individual_id": 688,
+                "name": "Simpson, Infant Son",
+                "years": "1902–",
+                "birth_year": "1902",
+                "death_year": "",
+                "findagrave_id": "84346654"
+            },
+            {
                 "individual_id": 690,
                 "name": "Simpson, Infant Son",
                 "years": "1906–1906",
@@ -2370,14 +2377,6 @@
                 "birth_year": "1899",
                 "death_year": "1899",
                 "findagrave_id": "84346640"
-            },
-            {
-                "individual_id": 688,
-                "name": "Simpson, Infant Son",
-                "years": "1902–",
-                "birth_year": "1902",
-                "death_year": "",
-                "findagrave_id": "84346654"
             },
             {
                 "individual_id": 697,
@@ -2747,6 +2746,14 @@
                 "findagrave_id": "85784075"
             },
             {
+                "individual_id": 598,
+                "name": "Bolton [Pittman], Dorris",
+                "years": "1930–",
+                "birth_year": "1930",
+                "death_year": "",
+                "findagrave_id": "85806438"
+            },
+            {
                 "individual_id": 2344,
                 "name": "Bolton, Henry",
                 "years": "1884–1946",
@@ -2839,14 +2846,6 @@
                 "findagrave_id": "85806378"
             },
             {
-                "individual_id": 598,
-                "name": "Pittman, Dorris Bolton",
-                "years": "1930–",
-                "birth_year": "1930",
-                "death_year": "",
-                "findagrave_id": "85806438"
-            },
-            {
                 "individual_id": 599,
                 "name": "Pittman, Emily E.",
                 "years": "1831–1852",
@@ -2881,7 +2880,7 @@
             },
             {
                 "individual_id": 808,
-                "name": "White, C. Arnold",
+                "name": "White, Clarence Arnold",
                 "years": "1928–1940",
                 "birth_year": "1928",
                 "death_year": "1940",
@@ -3782,7 +3781,8 @@
                 "years": "1903–1930",
                 "birth_year": "1903",
                 "death_year": "1930",
-                "findagrave_id": "18934355"
+                "findagrave_id": "18934355",
+                "familysearch_id": "LVS2-2N8"
             },
             {
                 "individual_id": 212,
@@ -4654,7 +4654,7 @@
             },
             {
                 "individual_id": 527,
-                "name": "Mitchell, Furman F.",
+                "name": "Mitchell, Farist Furman",
                 "years": "1896–1926",
                 "birth_year": "1896",
                 "death_year": "1926",
@@ -5322,6 +5322,14 @@
                 "familysearch_id": "L8SH-DJ5"
             },
             {
+                "individual_id": 511,
+                "name": "Brooks [Miller], Margaret Lou",
+                "years": "1857–",
+                "birth_year": "1857",
+                "death_year": "",
+                "findagrave_id": "49421352"
+            },
+            {
                 "individual_id": 1940,
                 "name": "Buice [Lawson], Mary Francis",
                 "years": "1860–1926",
@@ -5429,14 +5437,6 @@
                 "birth_year": "1853",
                 "death_year": "1912",
                 "findagrave_id": "85801943"
-            },
-            {
-                "individual_id": 511,
-                "name": "Miller, M. Lou",
-                "years": "–1857",
-                "birth_year": "",
-                "death_year": "1857",
-                "findagrave_id": "49421352"
             },
             {
                 "individual_id": 855,
@@ -6196,19 +6196,19 @@
                 "familysearch_id": "GWC1-N9F"
             },
             {
-                "individual_id": 574,
-                "name": "Oliver, Archie Bryan",
-                "years": "1953–1974",
-                "birth_year": "1953",
-                "death_year": "1974"
-            },
-            {
                 "individual_id": 12907,
                 "name": "Oliver, Archie Bryan",
                 "years": "1924–1991",
                 "birth_year": "1924",
                 "death_year": "1991",
                 "findagrave_id": "71993530"
+            },
+            {
+                "individual_id": 574,
+                "name": "Oliver, Archie Bryan",
+                "years": "1953–1974",
+                "birth_year": "1953",
+                "death_year": "1974"
             },
             {
                 "individual_id": 576,
