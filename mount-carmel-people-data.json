@@ -1,5 +1,5 @@
 {
-    "snapshot_date": "October 8, 2026",
+    "snapshot_date": "October 15, 2026",
     "detail_page_url": "/mt-carmel-cemetery-info",
     "primary": {
         "2": true,
@@ -1190,7 +1190,7 @@
             "findagrave_id": "85705365"
         },
         "77": {
-            "name": "Cathaline Jane Brewer",
+            "name": "Cathaline Jane Duncan [Brewer]",
             "birth_date": "January 11, 1834",
             "death_date": "May 31, 1909",
             "birth_year": 1834,
@@ -1331,7 +1331,7 @@
             "familysearch_id": "L8SH-9Y5"
         },
         "102": {
-            "name": "Odell  Brannon [Brumbalow]",
+            "name": "Julie Odell Brannon [Brumbalow]",
             "birth_date": "1889",
             "death_date": "1954",
             "birth_year": 1889,
@@ -1404,7 +1404,7 @@
             "findagrave_id": "49041012"
         },
         "111": {
-            "name": "Calvin  Bush",
+            "name": "Calvin  Bush Sr.",
             "birth_date": "July 2, 1845",
             "death_date": "June 7, 1924",
             "birth_year": 1845,
@@ -1414,7 +1414,7 @@
             "familysearch_id": "MB2R-JMK"
         },
         "112": {
-            "name": "Calvin  Bush",
+            "name": "Calvin  Bush Jr.",
             "birth_date": "July 22, 1889",
             "death_date": "August 17, 1962",
             "birth_year": 1889,
@@ -1614,7 +1614,7 @@
             "familysearch_id": "LWFD-DFH"
         },
         "145": {
-            "name": "M. E. [Cofer]",
+            "name": "M. E. Robertson [Cofer]",
             "birth_date": "September 29, 1875",
             "death_date": "July 27, 1895",
             "birth_year": 1875,
@@ -5057,7 +5057,7 @@
             "birth_year": 1888,
             "death_year": "",
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "findagrave_id": "84347638"
+            "findagrave_id": "14428367"
         },
         "632": {
             "name": "Elinda Colly Bolton [Robertson]",
@@ -6977,12 +6977,13 @@
             "cemetery": ""
         },
         "888": {
-            "name": "Lowe  Brumbelow",
+            "name": "Lowe Valentine Brumbelow",
             "birth_date": "1883",
             "death_date": "July 30, 1942",
             "birth_year": 1883,
             "death_year": 1942,
-            "cemetery": ""
+            "cemetery": "",
+            "findagrave_id": "14428624"
         },
         "890": {
             "name": "Snowey  Brumbelow [Baggs]",
@@ -7006,7 +7007,8 @@
             "death_date": "December 23, 1928",
             "birth_year": 1872,
             "death_year": 1928,
-            "cemetery": ""
+            "cemetery": "",
+            "findagrave_id": "129155685"
         },
         "900": {
             "name": "Joel Solomon Brumbelow",
@@ -7285,7 +7287,8 @@
             "death_date": "July 8, 1929",
             "birth_year": 1830,
             "death_year": 1929,
-            "cemetery": ""
+            "cemetery": "Mt. Carmel Cemetery",
+            "familysearch_id": "GSFX-7L7"
         },
         "972": {
             "name": "Greer  Barnett",
@@ -7859,7 +7862,8 @@
             "death_date": "",
             "birth_year": 1847,
             "death_year": "",
-            "cemetery": ""
+            "cemetery": "",
+            "familysearch_id": "LT61-HTK"
         },
         "1316": {
             "name": "Sarah Elizabeth Hamilton [Russell]",
@@ -8482,7 +8486,8 @@
             "death_date": "July 25, 1961",
             "birth_year": 1876,
             "death_year": 1961,
-            "cemetery": ""
+            "cemetery": "",
+            "findagrave_id": "114837449"
         },
         "1449": {
             "name": "Leman  Ivy",
@@ -8946,13 +8951,14 @@
             "cemetery": ""
         },
         "1682": {
-            "name": "Mary  Jenkins [Ivy]",
+            "name": "Mary Marsena Jenkins [Ivy]",
             "birth_date": "April 19, 1850",
             "death_date": "September 6, 1921",
             "birth_year": 1850,
             "death_year": 1921,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "findagrave_id": "85765681"
+            "findagrave_id": "85765681",
+            "familysearch_id": "LJHR-CTP"
         },
         "1686": {
             "name": "Lizzie C Clement",
@@ -10443,7 +10449,7 @@
             "familysearch_id": "LRB7-L6J"
         },
         "2344": {
-            "name": "Henry  Bolton",
+            "name": "Henry Tillman Bolton",
             "birth_date": "April 5, 1884",
             "death_date": "September 11, 1946",
             "birth_year": 1884,
@@ -11635,7 +11641,7 @@
             "cemetery": ""
         },
         "2636": {
-            "name": "Sydney  Baxter",
+            "name": "Sydney Luther Baxter",
             "birth_date": "1889",
             "death_date": "",
             "birth_year": 1889,
@@ -11652,12 +11658,13 @@
             "findagrave_id": "40913529"
         },
         "2638": {
-            "name": "Emeliza S Baxter",
+            "name": "Emeliza S Jett [Baxter]",
             "birth_date": "1836",
             "death_date": "",
             "birth_year": 1836,
             "death_year": "",
-            "cemetery": ""
+            "cemetery": "Gresham and Weed Cemetery",
+            "findagrave_id": "40913620"
         },
         "2639": {
             "name": "Amanda J Baxter",
@@ -11821,7 +11828,7 @@
             "death_date": "1877",
             "birth_year": 1792,
             "death_year": 1877,
-            "cemetery": "",
+            "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "findagrave_id": "252382231"
         },
         "2668": {
@@ -11830,7 +11837,7 @@
             "death_date": "1877",
             "birth_year": 1788,
             "death_year": 1877,
-            "cemetery": "",
+            "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "findagrave_id": "252382198"
         },
         "2669": {
@@ -13741,7 +13748,8 @@
             "death_date": "",
             "birth_year": 1995,
             "death_year": "",
-            "cemetery": "Green Lawn"
+            "cemetery": "Green Lawn",
+            "findagrave_id": "136840687"
         },
         "12798": {
             "name": "Mastin Minor",
@@ -14652,6 +14660,15 @@
             "cemetery": "",
             "findagrave_id": "67613281"
         },
+        "15876": {
+            "name": "Martha Eveline Buchanan [Johnson]",
+            "birth_date": "1861",
+            "death_date": "1943",
+            "birth_year": 1861,
+            "death_year": 1943,
+            "cemetery": "",
+            "findagrave_id": "73015975"
+        },
         "15961": {
             "name": "Horace F Smith",
             "birth_date": "October 13, 1846",
@@ -14880,6 +14897,33 @@
             "death_year": 1818,
             "cemetery": "",
             "familysearch_id": "P7NF-CVM"
+        },
+        "16033": {
+            "name": "James T. Johnson",
+            "birth_date": "October 31, 1857",
+            "death_date": "September 10, 1918",
+            "birth_year": 1857,
+            "death_year": 1918,
+            "cemetery": "Bethesda Memorial Cemetery",
+            "findagrave_id": "73015964"
+        },
+        "16034": {
+            "name": "Clara Mae Lawson [Brooks Chandler]",
+            "birth_date": "August 30, 1900",
+            "death_date": "February 6, 1978",
+            "birth_year": 1900,
+            "death_year": 1978,
+            "cemetery": "Oaklawn Cemetery",
+            "findagrave_id": "30540878"
+        },
+        "16035": {
+            "name": "Truman Archie Brooks",
+            "birth_date": "1923",
+            "death_date": "2004",
+            "birth_year": 1923,
+            "death_year": 2004,
+            "cemetery": "White Chapel Memorial Gardens",
+            "findagrave_id": "15663410"
         }
     },
     "families": {
@@ -15025,7 +15069,9 @@
                 25
             ],
             "children": [],
-            "siblings": []
+            "siblings": [
+                85
+            ]
         },
         "23": {
             "parents": [],
@@ -15417,7 +15463,10 @@
             ]
         },
         "65": {
-            "parents": [],
+            "parents": [
+                16033,
+                15876
+            ],
             "spouses": [
                 2675
             ],
@@ -15563,7 +15612,10 @@
             "siblings": []
         },
         "85": {
-            "parents": [],
+            "parents": [
+                88,
+                92
+            ],
             "spouses": [
                 91
             ],
@@ -15574,7 +15626,9 @@
                 93,
                 94
             ],
-            "siblings": []
+            "siblings": [
+                22
+            ]
         },
         "87": {
             "parents": [
@@ -15596,6 +15650,7 @@
                 92
             ],
             "children": [
+                85,
                 22
             ],
             "siblings": []
@@ -15637,6 +15692,7 @@
                 88
             ],
             "children": [
+                85,
                 22
             ],
             "siblings": [
@@ -15662,8 +15718,12 @@
                 85,
                 91
             ],
-            "spouses": [],
-            "children": [],
+            "spouses": [
+                16034
+            ],
+            "children": [
+                16035
+            ],
             "siblings": [
                 87,
                 90,
@@ -15733,7 +15793,6 @@
             "spouses": [],
             "children": [],
             "siblings": [
-                872,
                 106
             ]
         },
@@ -15752,8 +15811,7 @@
             "spouses": [],
             "children": [],
             "siblings": [
-                104,
-                872
+                104
             ]
         },
         "107": {
@@ -15763,7 +15821,6 @@
             "spouses": [],
             "children": [
                 104,
-                872,
                 106
             ],
             "siblings": [
@@ -16133,12 +16190,19 @@
             ]
         },
         "145": {
-            "parents": [],
+            "parents": [
+                632,
+                633
+            ],
             "spouses": [
                 12828
             ],
             "children": [],
-            "siblings": []
+            "siblings": [
+                3703,
+                346,
+                637
+            ]
         },
         "146": {
             "parents": [],
@@ -17225,9 +17289,7 @@
         },
         "258": {
             "parents": [],
-            "spouses": [
-                1320
-            ],
+            "spouses": [],
             "children": [],
             "siblings": []
         },
@@ -17925,7 +17987,8 @@
                 333,
                 340,
                 341,
-                281
+                281,
+                359
             ],
             "siblings": [
                 1458,
@@ -17951,6 +18014,7 @@
             "children": [],
             "siblings": [
                 3703,
+                145,
                 637
             ]
         },
@@ -18728,6 +18792,7 @@
             "spouses": [],
             "children": [],
             "siblings": [
+                16034,
                 3178,
                 12847
             ]
@@ -20708,6 +20773,7 @@
             "children": [
                 3703,
                 346,
+                145,
                 637
             ],
             "siblings": [
@@ -20731,6 +20797,7 @@
             "children": [
                 3703,
                 346,
+                145,
                 637
             ],
             "siblings": []
@@ -20766,7 +20833,8 @@
             ],
             "siblings": [
                 3703,
-                346
+                346,
+                145
             ]
         },
         "638": {
@@ -23723,7 +23791,6 @@
             ],
             "spouses": [
                 255,
-                258,
                 266
             ],
             "children": [
@@ -25888,6 +25955,7 @@
                 12850
             ],
             "children": [
+                16034,
                 3178,
                 12847,
                 420
