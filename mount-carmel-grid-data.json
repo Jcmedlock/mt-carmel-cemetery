@@ -625,20 +625,20 @@
                 "familysearch_id": "LZZM-5JQ"
             },
             {
-                "individual_id": 177,
-                "name": "Dean, Dave C.",
-                "years": "1878–1948",
-                "birth_year": "1878",
-                "death_year": "1948",
-                "findagrave_id": "85709722"
-            },
-            {
                 "individual_id": 176,
                 "name": "Dean, Dave C.",
                 "years": "1912–1932",
                 "birth_year": "1912",
                 "death_year": "1932",
                 "findagrave_id": "85709657"
+            },
+            {
+                "individual_id": 177,
+                "name": "Dean, Dave C.",
+                "years": "1878–1948",
+                "birth_year": "1878",
+                "death_year": "1948",
+                "findagrave_id": "85709722"
             },
             {
                 "individual_id": 178,
@@ -1444,20 +1444,20 @@
                 "findagrave_id": "85769358"
             },
             {
-                "individual_id": 407,
-                "name": "Lanier, Roland Edwin",
-                "years": "1905–1967",
-                "birth_year": "1905",
-                "death_year": "1967",
-                "findagrave_id": "85769443"
-            },
-            {
                 "individual_id": 406,
                 "name": "Lanier, Roland Edwin",
                 "years": "1872–1932",
                 "birth_year": "1872",
                 "death_year": "1932",
                 "findagrave_id": "85769497"
+            },
+            {
+                "individual_id": 407,
+                "name": "Lanier, Roland Edwin",
+                "years": "1905–1967",
+                "birth_year": "1905",
+                "death_year": "1967",
+                "findagrave_id": "85769443"
             },
             {
                 "individual_id": 1375,
@@ -5072,14 +5072,6 @@
                 "findagrave_id": "53491915"
             },
             {
-                "individual_id": 732,
-                "name": "Summerlin, Samuel Joseph",
-                "years": "1914–1914",
-                "birth_year": "1914",
-                "death_year": "1914",
-                "findagrave_id": "53491730"
-            },
-            {
                 "individual_id": 733,
                 "name": "Summerlin, Samuel Joseph",
                 "years": "1892–1933",
@@ -5087,6 +5079,14 @@
                 "death_year": "1933",
                 "findagrave_id": "53491720",
                 "familysearch_id": "LH6P-RS1"
+            },
+            {
+                "individual_id": 732,
+                "name": "Summerlin, Samuel Joseph",
+                "years": "1914–1914",
+                "birth_year": "1914",
+                "death_year": "1914",
+                "findagrave_id": "53491730"
             },
             {
                 "individual_id": 239,
@@ -7192,16 +7192,16 @@
             "503": "cousin-1",
             "978": "cousin-1"
         },
+        "176": {
+            "177": "ancestor-1",
+            "178": "sibling",
+            "179": "sibling"
+        },
         "177": {
             "180": "spouse",
             "176": "descendant-1",
             "178": "descendant-1",
             "179": "descendant-1"
-        },
-        "176": {
-            "177": "ancestor-1",
-            "178": "sibling",
-            "179": "sibling"
         },
         "178": {
             "177": "ancestor-1",
@@ -8356,15 +8356,6 @@
             "403": "sibling",
             "407": "sibling"
         },
-        "407": {
-            "404": "ancestor-1",
-            "406": "ancestor-1",
-            "399": "sibling",
-            "400": "sibling",
-            "401": "sibling",
-            "402": "sibling",
-            "403": "sibling"
-        },
         "406": {
             "404": "spouse",
             "399": "descendant-1",
@@ -8373,6 +8364,15 @@
             "402": "descendant-1",
             "403": "descendant-1",
             "407": "descendant-1"
+        },
+        "407": {
+            "404": "ancestor-1",
+            "406": "ancestor-1",
+            "399": "sibling",
+            "400": "sibling",
+            "401": "sibling",
+            "402": "sibling",
+            "403": "sibling"
         },
         "1375": {
             "1814": "spouse",
@@ -14284,12 +14284,12 @@
             "742": "descendant-1",
             "2575": "descendant-1"
         },
+        "733": {
+            "732": "descendant-1"
+        },
         "732": {
             "733": "ancestor-1",
             "159": "ancestor-2"
-        },
-        "733": {
-            "732": "descendant-1"
         },
         "239": {
             "2566": "ancestor-1",
