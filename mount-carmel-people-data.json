@@ -701,7 +701,9 @@
         "1976": true,
         "2011": true,
         "2024": true,
+        "2196": true,
         "2199": true,
+        "2202": true,
         "2339": true,
         "2343": true,
         "2344": true,
@@ -1047,7 +1049,7 @@
             "findagrave_id": "85823718"
         },
         "45": {
-            "name": "Infant  Bentley",
+            "name": "Infants  Bentley",
             "birth_date": "February 20, 1910",
             "death_date": "February 20, 1910",
             "birth_year": 1910,
@@ -4289,7 +4291,10 @@
             "birth_year": 1927,
             "death_year": 1927,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Heart",
+                "Leaf"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "86256255"
         },
@@ -5069,7 +5074,10 @@
             "birth_year": 1850,
             "death_year": 1925,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Leaf",
+                "Urn"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85802039",
             "familysearch_id": "GDYK-8MX"
@@ -10074,7 +10082,10 @@
             "birth_year": 1848,
             "death_year": 1912,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Leaf",
+                "Urn"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85802082"
         },
@@ -11808,7 +11819,10 @@
             "birth_year": 1847,
             "death_year": 1911,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Book",
+                "Veil"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "86236843",
             "familysearch_id": "L634-J96"
@@ -12767,6 +12781,17 @@
             "findagrave_id": "85821066",
             "familysearch_id": "LVD9-JS9"
         },
+        "2203": {
+            "name": "Thomas Hardaway Mitchell",
+            "birth_date": "August 28, 1793",
+            "death_date": "May 27, 1853",
+            "birth_year": 1793,
+            "death_year": 1853,
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false,
+            "findagrave_id": "75444607"
+        },
         "2204": {
             "name": "Mary A Liddell",
             "birth_date": "December 17, 1861",
@@ -12776,6 +12801,17 @@
             "cemetery": "",
             "gravestone_motifs": [],
             "gravestone_no_imagery": false
+        },
+        "2205": {
+            "name": "Ruth  Tillery [Mitchell]",
+            "birth_date": "March 25, 1787",
+            "death_date": "August 12, 1874",
+            "birth_year": 1787,
+            "death_year": 1874,
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false,
+            "findagrave_id": "75444661"
         },
         "2206": {
             "name": "Sarah J Simpson [Webb]",
@@ -18134,6 +18170,17 @@
             "gravestone_motifs": [],
             "gravestone_no_imagery": false,
             "findagrave_id": "123084502"
+        },
+        "15971": {
+            "name": "Dr. Joshua Marion Mitchell",
+            "birth_date": "October 13, 1826",
+            "death_date": "March 10, 1911",
+            "birth_year": 1826,
+            "death_year": 1911,
+            "cemetery": "Indian Creek Cemetery",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false,
+            "findagrave_id": "46834448"
         },
         "15972": {
             "name": "Harvey Charles Harmon",
@@ -28595,6 +28642,30 @@
                 2028
             ]
         },
+        "2196": {
+            "parents": [
+                2205,
+                2203
+            ],
+            "spouses": [
+                2202
+            ],
+            "children": [
+                702,
+                390,
+                2200,
+                693,
+                2197,
+                2171,
+                2204,
+                2206,
+                2199
+            ],
+            "siblings": [
+                15971,
+                15970
+            ]
+        },
         "2199": {
             "parents": [
                 2196,
@@ -28620,6 +28691,23 @@
                 2204,
                 2206
             ]
+        },
+        "2202": {
+            "parents": [],
+            "spouses": [
+                2196
+            ],
+            "children": [
+                702,
+                390,
+                2200,
+                693,
+                2197,
+                2204,
+                2206,
+                2199
+            ],
+            "siblings": []
         },
         "2339": {
             "parents": [
