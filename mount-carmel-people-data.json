@@ -417,7 +417,6 @@
         "596": true,
         "597": true,
         "598": true,
-        "599": true,
         "601": true,
         "607": true,
         "608": true,
@@ -632,7 +631,9 @@
         "1013": true,
         "1034": true,
         "1057": true,
+        "1219": true,
         "1220": true,
+        "1221": true,
         "1227": true,
         "1245": true,
         "1317": true,
@@ -654,6 +655,7 @@
         "1424": true,
         "1427": true,
         "1428": true,
+        "1439": true,
         "1450": true,
         "1451": true,
         "1453": true,
@@ -666,6 +668,8 @@
         "1493": true,
         "1495": true,
         "1496": true,
+        "1512": true,
+        "1513": true,
         "1516": true,
         "1634": true,
         "1656": true,
@@ -1364,7 +1368,9 @@
             "birth_year": 1858,
             "death_year": 1929,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Daffodil"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85705969",
             "familysearch_id": "K2Y5-X5J"
@@ -1424,7 +1430,12 @@
             "birth_year": 1895,
             "death_year": 1918,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Bells",
+                "Cross",
+                "Rifle",
+                "U.S. Flag"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "48972309"
         },
@@ -1476,7 +1487,10 @@
             "birth_year": 1892,
             "death_year": 1924,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Ribbon"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "49417739",
             "familysearch_id": "GC5C-H4V"
@@ -3606,7 +3620,7 @@
             "death_year": 1944,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false,
+            "gravestone_no_imagery": true,
             "findagrave_id": "84993009"
         },
         "347": {
@@ -4976,7 +4990,9 @@
             "birth_year": 1917,
             "death_year": 2010,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85784075"
         },
@@ -5065,7 +5081,9 @@
             "birth_year": 1880,
             "death_year": 1916,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85802157"
         },
@@ -5120,7 +5138,9 @@
             "birth_year": 1875,
             "death_year": 1942,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85802216",
             "familysearch_id": "L1YD-7J8"
@@ -5805,7 +5825,10 @@
             "birth_year": 1927,
             "death_year": "",
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Dogwood",
+                "Heart"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85806378"
         },
@@ -5816,7 +5839,10 @@
             "birth_year": 1930,
             "death_year": "",
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Dogwood",
+                "Heart"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85806438"
         },
@@ -5839,7 +5865,7 @@
             "death_year": 1839,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false,
+            "gravestone_no_imagery": true,
             "findagrave_id": "46409197",
             "familysearch_id": "KL1J-N1K"
         },
@@ -6069,7 +6095,9 @@
             "birth_year": 1853,
             "death_year": 1901,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Hand Breaking a Chain"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85586415"
         },
@@ -6080,7 +6108,10 @@
             "birth_year": 1848,
             "death_year": 1916,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Hand Breaking a Chain"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85586330"
         },
@@ -6103,7 +6134,10 @@
             "birth_year": 1872,
             "death_year": 1952,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Candle",
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "84992849"
         },
@@ -6206,7 +6240,10 @@
             "birth_year": 1868,
             "death_year": 1940,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Candle",
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "84992773"
         },
@@ -6229,7 +6266,9 @@
             "birth_year": 1865,
             "death_year": 1920,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Foliage"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "69923426",
             "familysearch_id": "LDBJ-LPT"
@@ -6299,7 +6338,10 @@
             "birth_year": 1891,
             "death_year": 1935,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Ivy",
+                "Masonic Compass \u0026 Square"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "84992271",
             "familysearch_id": "LBVW-7YQ"
@@ -6794,7 +6836,10 @@
             "birth_year": 1815,
             "death_year": 1904,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Greek Key"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "62324337",
             "familysearch_id": "KDSJ-RYQ"
@@ -7301,7 +7346,9 @@
             "birth_year": 1829,
             "death_year": 1900,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Pointing Upward"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85823105",
             "familysearch_id": "L8WL-HD1"
@@ -7335,7 +7382,10 @@
             "birth_year": 1830,
             "death_year": 1905,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Veil"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85823150"
         },
@@ -7708,7 +7758,10 @@
             "birth_year": 1928,
             "death_year": 1940,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Clover",
+                "Cross"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85826316"
         },
@@ -7719,7 +7772,10 @@
             "birth_year": 1893,
             "death_year": 1965,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Clover",
+                "Cross"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85826402"
         },
@@ -7730,7 +7786,10 @@
             "birth_year": 1905,
             "death_year": 1941,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Clover",
+                "Cross"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85826363"
         },
@@ -9293,14 +9352,14 @@
             "gravestone_no_imagery": false
         },
         "1219": {
-            "name": "Margaret  Simpson [Babb]",
-            "birth_date": "1937",
-            "death_date": "",
-            "birth_year": 1937,
-            "death_year": "",
+            "name": "Margaret S. Simpson [Babb]",
+            "birth_date": "July 27, 1936",
+            "death_date": "April 28, 2022",
+            "birth_year": 1936,
+            "death_year": 2022,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false
+            "gravestone_no_imagery": true
         },
         "1220": {
             "name": "Grady Harry Simpson",
@@ -9310,7 +9369,7 @@
             "death_year": 1976,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false,
+            "gravestone_no_imagery": true,
             "findagrave_id": "84346128",
             "familysearch_id": "G28B-CFQ"
         },
@@ -10231,6 +10290,27 @@
             "findagrave_id": "9728205",
             "familysearch_id": "K69H-6R6"
         },
+        "1434": {
+            "name": "Daniel J Pittman",
+            "birth_date": "1835",
+            "death_date": "May 23, 1886",
+            "birth_year": 1835,
+            "death_year": 1886,
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false
+        },
+        "1435": {
+            "name": "Aseneth  Haynes [Pittman]",
+            "birth_date": "August 24, 1805",
+            "death_date": "November 29, 1881",
+            "birth_year": 1805,
+            "death_year": 1881,
+            "cemetery": "Stone Mountain",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false,
+            "familysearch_id": "KHJX-L8P"
+        },
         "1436": {
             "name": "Lucy Asenath Pittman [Ivy]",
             "birth_date": "November 22, 1844",
@@ -10253,6 +10333,48 @@
             "gravestone_motifs": [],
             "gravestone_no_imagery": false,
             "familysearch_id": "KL1J-J7Y"
+        },
+        "1439": {
+            "name": "Eunice Marshall Pittman",
+            "birth_date": "April 11, 1829",
+            "death_date": "September 1, 1842",
+            "birth_year": 1829,
+            "death_year": 1842,
+            "cemetery": "Mount Carmel United Methodist Church Cemetery",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": true,
+            "findagrave_id": "46396277",
+            "familysearch_id": "M4F9-R8N"
+        },
+        "1440": {
+            "name": "Richard A. Pittman",
+            "birth_date": "December 4, 1841",
+            "death_date": "December 20, 1882",
+            "birth_year": 1841,
+            "death_year": 1882,
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false
+        },
+        "1441": {
+            "name": "Lucinda Henrietta Burson",
+            "birth_date": "December 6, 1846",
+            "death_date": "May 18, 1901",
+            "birth_year": 1846,
+            "death_year": 1901,
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false
+        },
+        "1442": {
+            "name": "Abigail Baber Pittman",
+            "birth_date": "1832",
+            "death_date": "1928",
+            "birth_year": 1832,
+            "death_year": 1928,
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false
         },
         "1445": {
             "name": "Marshall  Pittman",
@@ -10554,14 +10676,15 @@
             "gravestone_no_imagery": false
         },
         "1499": {
-            "name": "Mary M. Goza",
+            "name": "Mary Malvenia Goza",
             "birth_date": "1829",
             "death_date": "1910",
             "birth_year": 1829,
             "death_year": 1910,
             "cemetery": "",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false
+            "gravestone_no_imagery": false,
+            "familysearch_id": "LBJC-ZLP"
         },
         "1500": {
             "name": "Rebecca Janie Goza",
@@ -10631,17 +10754,19 @@
             "death_year": 1865,
             "cemetery": "",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false
+            "gravestone_no_imagery": false,
+            "familysearch_id": "KZRW-1PL"
         },
         "1507": {
-            "name": "Susan  Lanier",
+            "name": "Susan  Walker [Goza]",
             "birth_date": "1806",
             "death_date": "November 6, 1886",
             "birth_year": 1806,
             "death_year": 1886,
             "cemetery": "",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false
+            "gravestone_no_imagery": false,
+            "familysearch_id": "L8Q5-JVC"
         },
         "1510": {
             "name": "Cecile Maude Simpson [Carroll]",
@@ -10705,7 +10830,7 @@
             "death_year": 1989,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false,
+            "gravestone_no_imagery": true,
             "findagrave_id": "84346154"
         },
         "1517": {
@@ -14330,6 +14455,17 @@
             "gravestone_motifs": [],
             "gravestone_no_imagery": false
         },
+        "2649": {
+            "name": "Elizabeth J. Sorrells [Ross]",
+            "birth_date": "1840",
+            "death_date": "1868",
+            "birth_year": 1840,
+            "death_year": 1868,
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false,
+            "familysearch_id": "MCSK-QF8"
+        },
         "2650": {
             "name": "James Frederick Ross",
             "birth_date": "March 18, 1862",
@@ -14503,7 +14639,7 @@
             "death_year": 1963,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [
-                "Ivy"
+                "Floral"
             ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85700085",
@@ -15000,6 +15136,17 @@
             "gravestone_no_imagery": false,
             "findagrave_id": "36687235",
             "familysearch_id": "L2W8-3Z8"
+        },
+        "3472": {
+            "name": "Robert Jackson Ross",
+            "birth_date": "February 2, 1827",
+            "death_date": "March 1, 1891",
+            "birth_year": 1827,
+            "death_year": 1891,
+            "cemetery": "Norcross City",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": true,
+            "findagrave_id": "282758348"
         },
         "3473": {
             "name": "Robert Jackson Adams",
@@ -17792,6 +17939,36 @@
             "findagrave_id": "95249368",
             "familysearch_id": "KZSC-6WS"
         },
+        "12918": {
+            "name": "Susan  Hollbrook [Wallpe]",
+            "birth_date": "August 29, 1957",
+            "death_date": "",
+            "birth_year": 1957,
+            "death_year": "",
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false
+        },
+        "12919": {
+            "name": "Chris  Babb",
+            "birth_date": "",
+            "death_date": "",
+            "birth_year": "",
+            "death_year": "",
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false
+        },
+        "12935": {
+            "name": "Tony  Babb",
+            "birth_date": "",
+            "death_date": "",
+            "birth_year": "",
+            "death_year": "",
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false
+        },
         "12937": {
             "name": "Araminta  Boles [Duncan]",
             "birth_date": "July 11, 1827",
@@ -18224,6 +18401,28 @@
             "gravestone_motifs": [],
             "gravestone_no_imagery": false,
             "findagrave_id": "15663410"
+        },
+        "16066": {
+            "name": "George  Kehrer",
+            "birth_date": "May 19, 1840",
+            "death_date": "December 28, 1892",
+            "birth_year": 1840,
+            "death_year": 1892,
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false,
+            "familysearch_id": "MXLC-78H"
+        },
+        "16067": {
+            "name": "Mary  Smith",
+            "birth_date": "December 17, 1845",
+            "death_date": "December 6, 1933",
+            "birth_year": 1845,
+            "death_year": 1933,
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false,
+            "familysearch_id": "MWC8-GJ8"
         }
     },
     "families": {
@@ -21708,7 +21907,10 @@
             ]
         },
         "387": {
-            "parents": [],
+            "parents": [
+                16066,
+                16067
+            ],
             "spouses": [
                 389
             ],
@@ -23833,17 +24035,6 @@
                 1039
             ]
         },
-        "599": {
-            "parents": [
-                12811,
-                601
-            ],
-            "spouses": [],
-            "children": [],
-            "siblings": [
-                3143
-            ]
-        },
         "601": {
             "parents": [
                 1437,
@@ -24157,6 +24348,7 @@
                 2648
             ],
             "spouses": [
+                2649,
                 658
             ],
             "children": [
@@ -24267,7 +24459,10 @@
             ]
         },
         "646": {
-            "parents": [],
+            "parents": [
+                1499,
+                3472
+            ],
             "spouses": [
                 637
             ],
@@ -24362,6 +24557,7 @@
         "655": {
             "parents": [
                 639,
+                2649,
                 658
             ],
             "spouses": [
@@ -26963,6 +27159,20 @@
                 1075
             ]
         },
+        "1219": {
+            "parents": [
+                1516,
+                1220
+            ],
+            "spouses": [],
+            "children": [
+                12919,
+                12935
+            ],
+            "siblings": [
+                1221
+            ]
+        },
         "1220": {
             "parents": [
                 1513,
@@ -26982,6 +27192,19 @@
                 688,
                 690,
                 697
+            ]
+        },
+        "1221": {
+            "parents": [
+                1516,
+                1220
+            ],
+            "spouses": [],
+            "children": [
+                12918
+            ],
+            "siblings": [
+                1219
             ]
         },
         "1227": {
@@ -27448,6 +27671,21 @@
                 1429
             ]
         },
+        "1439": {
+            "parents": [
+                1435,
+                1433
+            ],
+            "spouses": [],
+            "children": [],
+            "siblings": [
+                1442,
+                1434,
+                1441,
+                1436,
+                1440
+            ]
+        },
         "1450": {
             "parents": [
                 1451,
@@ -27682,6 +27920,54 @@
                 246,
                 2444,
                 2449
+            ]
+        },
+        "1512": {
+            "parents": [
+                682,
+                2200
+            ],
+            "spouses": [
+                1513
+            ],
+            "children": [
+                1517,
+                1510,
+                1220,
+                687,
+                688,
+                690,
+                697
+            ],
+            "siblings": [
+                698,
+                620,
+                619
+            ]
+        },
+        "1513": {
+            "parents": [
+                639,
+                658
+            ],
+            "spouses": [
+                1512
+            ],
+            "children": [
+                1517,
+                1510,
+                1220,
+                687,
+                688,
+                690,
+                697
+            ],
+            "siblings": [
+                640,
+                2650,
+                541,
+                655,
+                657
             ]
         },
         "1516": {
