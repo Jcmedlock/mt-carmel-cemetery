@@ -170,7 +170,6 @@
         "160": true,
         "155": true,
         "156": true,
-        "167": true,
         "168": true,
         "178": true,
         "1484": true,
@@ -185,6 +184,7 @@
         "164": true,
         "165": true,
         "166": true,
+        "167": true,
         "170": true,
         "171": true,
         "173": true,
@@ -2203,7 +2203,7 @@
             "findagrave_id": "86134801"
         },
         "167": {
-            "name": "James Litton de Jarnette",
+            "name": "James Litton deJarnette",
             "birth_date": "September 24, 1940",
             "death_date": "April 7, 2016",
             "birth_year": 1940,
@@ -21773,16 +21773,6 @@
             ],
             "siblings": []
         },
-        "167": {
-            "parents": [
-                166
-            ],
-            "spouses": [
-                172
-            ],
-            "children": [],
-            "siblings": []
-        },
         "168": {
             "parents": [],
             "spouses": [
@@ -21952,6 +21942,16 @@
                 170,
                 173
             ]
+        },
+        "167": {
+            "parents": [
+                166
+            ],
+            "spouses": [
+                172
+            ],
+            "children": [],
+            "siblings": []
         },
         "170": {
             "parents": [

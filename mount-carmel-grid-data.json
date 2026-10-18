@@ -327,14 +327,6 @@
                 "findagrave_id": "86134914"
             },
             {
-                "individual_id": 167,
-                "name": "de Jarnette, James Litton",
-                "years": "1940–2016",
-                "birth_year": "1940",
-                "death_year": "2016",
-                "findagrave_id": "188538042"
-            },
-            {
                 "individual_id": 168,
                 "name": "de Jarnette, Laurette Harralson",
                 "years": "1929–2010",
@@ -391,6 +383,14 @@
                 "findagrave_id": "86134801"
             },
             {
+                "individual_id": 167,
+                "name": "deJarnette, James Litton",
+                "years": "1940–2016",
+                "birth_year": "1940",
+                "death_year": "2016",
+                "findagrave_id": "188538042"
+            },
+            {
                 "individual_id": 170,
                 "name": "deJarnette, Lewis Warren",
                 "years": "1908–1990",
@@ -421,6 +421,14 @@
                 "birth_year": "1905",
                 "death_year": "1987",
                 "findagrave_id": "86133865"
+            },
+            {
+                "individual_id": 1830,
+                "name": "Hunnicutt [deJarnette], Leila",
+                "years": "1875–1942",
+                "birth_year": "1875",
+                "death_year": "1942",
+                "findagrave_id": "149356955"
             },
             {
                 "individual_id": 1826,
@@ -6472,14 +6480,6 @@
             "familysearch_id": "LZ64-LPQ"
         },
         {
-            "individual_id": 1830,
-            "name": "Hunnicutt [deJarnette], Leila",
-            "years": "1875–1942",
-            "birth_year": "1875",
-            "death_year": "1942",
-            "findagrave_id": "149356955"
-        },
-        {
             "individual_id": 12835,
             "name": "Ingram, William Peter",
             "years": "1842–1910",
@@ -6804,28 +6804,6 @@
             "124": "sibling",
             "141": "sibling",
             "1634": "niece-nephew-1"
-        },
-        "1830": {
-            "171": "spouse",
-            "1811": "ancestor-1",
-            "1826": "ancestor-1",
-            "320": "ancestor-2",
-            "161": "descendant-1",
-            "164": "descendant-1",
-            "166": "descendant-1",
-            "170": "descendant-1",
-            "173": "descendant-1",
-            "167": "descendant-2",
-            "1827": "sibling",
-            "1873": "sibling",
-            "1874": "sibling",
-            "1829": "niece-nephew-1",
-            "1844": "niece-nephew-1",
-            "1656": "aunt-uncle-1",
-            "1814": "aunt-uncle-1",
-            "1717": "cousin-1",
-            "83": "cousin-1",
-            "464": "cousin-1"
         },
         "12835": {
             "12836": "spouse",
@@ -7833,16 +7811,6 @@
         "797": {
             "1844": "spouse"
         },
-        "167": {
-            "172": "spouse",
-            "166": "ancestor-1",
-            "171": "ancestor-2",
-            "1830": "ancestor-2",
-            "161": "aunt-uncle-1",
-            "164": "aunt-uncle-1",
-            "170": "aunt-uncle-1",
-            "173": "aunt-uncle-1"
-        },
         "168": {
             "162": "spouse"
         },
@@ -7904,6 +7872,16 @@
             "1829": "cousin-1",
             "1844": "cousin-1"
         },
+        "167": {
+            "172": "spouse",
+            "166": "ancestor-1",
+            "171": "ancestor-2",
+            "1830": "ancestor-2",
+            "161": "aunt-uncle-1",
+            "164": "aunt-uncle-1",
+            "170": "aunt-uncle-1",
+            "173": "aunt-uncle-1"
+        },
         "170": {
             "165": "spouse",
             "171": "ancestor-1",
@@ -7949,6 +7927,28 @@
         },
         "174": {
             "164": "spouse"
+        },
+        "1830": {
+            "171": "spouse",
+            "1811": "ancestor-1",
+            "1826": "ancestor-1",
+            "320": "ancestor-2",
+            "161": "descendant-1",
+            "164": "descendant-1",
+            "166": "descendant-1",
+            "170": "descendant-1",
+            "173": "descendant-1",
+            "167": "descendant-2",
+            "1827": "sibling",
+            "1873": "sibling",
+            "1874": "sibling",
+            "1829": "niece-nephew-1",
+            "1844": "niece-nephew-1",
+            "1656": "aunt-uncle-1",
+            "1814": "aunt-uncle-1",
+            "1717": "cousin-1",
+            "83": "cousin-1",
+            "464": "cousin-1"
         },
         "1826": {
             "1811": "spouse",
