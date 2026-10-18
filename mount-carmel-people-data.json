@@ -1,5 +1,5 @@
 {
-    "snapshot_date": "October 17, 2026",
+    "snapshot_date": "October 18, 2026",
     "detail_page_url": "/mt-carmel-cemetery-info",
     "primary": {
         "2": true,
@@ -102,6 +102,7 @@
         "155": true,
         "157": true,
         "159": true,
+        "160": true,
         "161": true,
         "162": true,
         "163": true,
@@ -267,6 +268,7 @@
         "388": true,
         "389": true,
         "390": true,
+        "393": true,
         "394": true,
         "395": true,
         "396": true,
@@ -860,7 +862,10 @@
             "birth_year": 1809,
             "death_year": 1897,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "33373010"
         },
@@ -872,7 +877,7 @@
             "death_year": 1875,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false,
+            "gravestone_no_imagery": true,
             "findagrave_id": "85697481",
             "familysearch_id": "KH62-G32"
         },
@@ -1095,7 +1100,7 @@
             "death_year": 1935,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false,
+            "gravestone_no_imagery": true,
             "findagrave_id": "85698919"
         },
         "51": {
@@ -1310,7 +1315,7 @@
             "death_year": 1886,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false,
+            "gravestone_no_imagery": true,
             "findagrave_id": "85705365"
         },
         "77": {
@@ -2006,6 +2011,20 @@
             "gravestone_no_imagery": false,
             "findagrave_id": "88515153",
             "familysearch_id": "GZF5-XVX"
+        },
+        "160": {
+            "name": "Sarah  Davis",
+            "birth_date": "October 13, 1906",
+            "death_date": "July 7, 1907",
+            "birth_year": 1906,
+            "death_year": 1907,
+            "cemetery": "Mount Carmel United Methodist Church Cemetery",
+            "gravestone_motifs": [
+                "Rock",
+                "Scroll"
+            ],
+            "gravestone_no_imagery": false,
+            "findagrave_id": "85709351"
         },
         "161": {
             "name": "Alice Ann deJarnette",
@@ -2919,7 +2938,10 @@
             "birth_year": 1834,
             "death_year": 1923,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "33372992"
         },
@@ -2989,7 +3011,9 @@
             "birth_year": 1878,
             "death_year": 1968,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Dogwood"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85762096"
         },
@@ -3000,7 +3024,9 @@
             "birth_year": 1848,
             "death_year": 1925,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Dogwood"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85762164"
         },
@@ -3457,7 +3483,11 @@
             "birth_year": 1874,
             "death_year": 1902,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Daisy",
+                "Heart",
+                "Scallop"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85765180"
         },
@@ -3601,7 +3631,11 @@
             "birth_year": 1849,
             "death_year": 1923,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Leaf",
+                "Rose"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85765438"
         },
@@ -3634,7 +3668,9 @@
             "birth_year": "",
             "death_year": 1873,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Enclosed Grave"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85765599"
         },
@@ -4026,6 +4062,17 @@
             "gravestone_no_imagery": true,
             "findagrave_id": "85768601",
             "familysearch_id": "LVS3-8XC"
+        },
+        "393": {
+            "name": "Nancy  Key",
+            "birth_date": "January 15, 1830",
+            "death_date": "August 26, 1878",
+            "birth_year": 1830,
+            "death_year": 1878,
+            "cemetery": "Mount Carmel United Methodist Church Cemetery",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false,
+            "findagrave_id": "86236486"
         },
         "394": {
             "name": "Minerva C. Duncan [Kirk]",
@@ -4459,7 +4506,7 @@
             "death_year": 1889,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false,
+            "gravestone_no_imagery": true,
             "findagrave_id": "85777210",
             "familysearch_id": "M7KD-LGJ"
         },
@@ -4482,7 +4529,7 @@
             "death_year": 1893,
             "cemetery": "",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false,
+            "gravestone_no_imagery": true,
             "findagrave_id": "85777291",
             "familysearch_id": "2MKX-9HG"
         },
@@ -4680,7 +4727,10 @@
             "birth_year": 1837,
             "death_year": 1916,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Book",
+                "Leaf"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85778579"
         },
@@ -4841,7 +4891,9 @@
             "birth_year": 1873,
             "death_year": 1972,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85779069",
             "familysearch_id": "9V7W-J12"
@@ -4853,7 +4905,9 @@
             "birth_year": 1868,
             "death_year": 1938,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85779593",
             "familysearch_id": "LB5R-N99"
@@ -4865,7 +4919,9 @@
             "birth_year": "",
             "death_year": 1918,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "86237438"
         },
@@ -4942,7 +4998,9 @@
             "birth_year": 1888,
             "death_year": 1892,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Lamb"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85780944"
         },
@@ -5081,6 +5139,7 @@
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [
                 "Leaf",
+                "Pedestal",
                 "Urn"
             ],
             "gravestone_no_imagery": false,
@@ -5129,7 +5188,9 @@
             "birth_year": 1852,
             "death_year": 1932,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "9079366"
         },
@@ -5681,7 +5742,9 @@
             "birth_year": 1893,
             "death_year": 1967,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85805478"
         },
@@ -5692,7 +5755,10 @@
             "birth_year": 1887,
             "death_year": 1937,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Cross",
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "65239097",
             "familysearch_id": "GZFB-7KC"
@@ -5766,7 +5832,7 @@
             "familysearch_id": "GKP9-6GB"
         },
         "591": {
-            "name": "Fannie  Poole [Philips]",
+            "name": "Fannie  Poole [Phillips]",
             "birth_date": "August 12, 1871",
             "death_date": "January 9, 1936",
             "birth_year": 1871,
@@ -5805,12 +5871,15 @@
             "birth_year": 1900,
             "death_year": 1901,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Palm Frond"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85806144"
         },
         "595": {
-            "name": "Frank L. Philips",
+            "name": "Frank L. Phillips",
             "birth_date": "April 20, 1866",
             "death_date": "June 23, 1930",
             "birth_year": 1866,
@@ -5912,7 +5981,9 @@
             "birth_year": 1870,
             "death_year": 1940,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Leaf"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85806644"
         },
@@ -5945,7 +6016,9 @@
             "birth_year": 1868,
             "death_year": 1954,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Leaf"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85806510"
         },
@@ -7588,8 +7661,7 @@
             "death_year": "",
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [],
-            "gravestone_no_imagery": false,
-            "findagrave_id": "85823866"
+            "gravestone_no_imagery": false
         },
         "785": {
             "name": "Unmarked Grave",
@@ -7839,7 +7911,9 @@
             "birth_year": 1899,
             "death_year": 1902,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "86255906"
         },
@@ -7850,7 +7924,9 @@
             "birth_year": 1901,
             "death_year": 1902,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "86255990"
         },
@@ -7872,7 +7948,9 @@
             "birth_year": 1894,
             "death_year": 1894,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "86240646"
         },
@@ -7894,7 +7972,9 @@
             "birth_year": 1872,
             "death_year": 1959,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "86256173"
         },
@@ -7905,7 +7985,9 @@
             "birth_year": 1874,
             "death_year": 1922,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "86256066"
         },
@@ -7927,7 +8009,11 @@
             "birth_year": 1908,
             "death_year": 1925,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Ivy",
+                "Palm Frond",
+                "Urn"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85826536"
         },
@@ -7938,7 +8024,11 @@
             "birth_year": 1871,
             "death_year": "",
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Foliage",
+                "Urn"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85826592"
         },
@@ -7949,7 +8039,11 @@
             "birth_year": 1833,
             "death_year": 1926,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Foliage",
+                "Urn"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85826640"
         },
@@ -7972,7 +8066,10 @@
             "birth_year": 1897,
             "death_year": 1988,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Urn"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "66614582"
         },
@@ -7983,7 +8080,9 @@
             "birth_year": 1919,
             "death_year": 1928,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "66643621"
         },
@@ -7994,7 +8093,9 @@
             "birth_year": 1924,
             "death_year": 1924,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "66643700"
         },
@@ -8050,7 +8151,9 @@
             "birth_year": 1819,
             "death_year": 1899,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Confederate Army Service"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "63722176",
             "familysearch_id": "KHPL-7S4"
@@ -8097,7 +8200,9 @@
             "birth_year": 1871,
             "death_year": 1953,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "66643888",
             "familysearch_id": "LBT5-83S"
@@ -10093,6 +10198,7 @@
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
             "gravestone_motifs": [
                 "Leaf",
+                "Pedestal",
                 "Urn"
             ],
             "gravestone_no_imagery": false,
@@ -10536,7 +10642,9 @@
             "birth_year": 1852,
             "death_year": 1918,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Masonic Compass \u0026 Square"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85765968",
             "familysearch_id": "G9TK-6QM"
@@ -11008,7 +11116,11 @@
             "birth_year": 1850,
             "death_year": 1921,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Leaf",
+                "Rose"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85765681",
             "familysearch_id": "LJHR-CTP"
@@ -11877,7 +11989,10 @@
             "birth_year": 1873,
             "death_year": 1936,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85825519",
             "familysearch_id": "KNS7-DLK"
@@ -11889,7 +12004,10 @@
             "birth_year": 1872,
             "death_year": 1961,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Floral",
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "85825928"
         },
@@ -12290,7 +12408,9 @@
             "birth_year": 1853,
             "death_year": 1938,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "9079388"
         },
@@ -12563,7 +12683,11 @@
             "birth_year": 1807,
             "death_year": 1897,
             "cemetery": "Mount Carmel United Methodist Church Cemetery",
-            "gravestone_motifs": [],
+            "gravestone_motifs": [
+                "Confederate Army Service",
+                "Floral",
+                "Ivy"
+            ],
             "gravestone_no_imagery": false,
             "findagrave_id": "33373023",
             "familysearch_id": "L4Q5-KSL"
@@ -18481,6 +18605,16 @@
             "gravestone_motifs": [],
             "gravestone_no_imagery": false,
             "familysearch_id": "MWC8-GJ8"
+        },
+        "16068": {
+            "name": "Charles B. Davis",
+            "birth_date": "",
+            "death_date": "",
+            "birth_year": "",
+            "death_year": "",
+            "cemetery": "",
+            "gravestone_motifs": [],
+            "gravestone_no_imagery": false
         }
     },
     "families": {
@@ -18873,7 +19007,8 @@
             "spouses": [],
             "children": [],
             "siblings": [
-                496
+                496,
+                442
             ]
         },
         "51": {
@@ -19833,8 +19968,12 @@
                 111,
                 118
             ],
-            "spouses": [],
-            "children": [],
+            "spouses": [
+                16068
+            ],
+            "children": [
+                160
+            ],
             "siblings": [
                 112,
                 113,
@@ -19879,6 +20018,15 @@
             "siblings": [
                 11245
             ]
+        },
+        "160": {
+            "parents": [
+                153,
+                16068
+            ],
+            "spouses": [],
+            "children": [],
+            "siblings": []
         },
         "161": {
             "parents": [
@@ -22020,6 +22168,12 @@
                 2199
             ]
         },
+        "393": {
+            "parents": [],
+            "spouses": [],
+            "children": [],
+            "siblings": []
+        },
         "394": {
             "parents": [
                 12937,
@@ -22532,17 +22686,24 @@
             ],
             "children": [
                 496,
+                442,
                 50
             ],
             "siblings": []
         },
         "442": {
-            "parents": [],
+            "parents": [
+                444,
+                441
+            ],
             "spouses": [
                 12808
             ],
             "children": [],
-            "siblings": []
+            "siblings": [
+                496,
+                50
+            ]
         },
         "443": {
             "parents": [],

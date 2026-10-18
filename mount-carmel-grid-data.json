@@ -364,20 +364,20 @@
                 "findagrave_id": "65246675"
             },
             {
-                "individual_id": 1827,
-                "name": "Hunnicutt, William Reese",
-                "years": "1882–1944",
-                "birth_year": "1882",
-                "death_year": "1944",
-                "findagrave_id": "86135545"
-            },
-            {
                 "individual_id": 1829,
                 "name": "Hunnicutt, William Reese",
                 "years": "1914–2005",
                 "birth_year": "1914",
                 "death_year": "2005",
                 "findagrave_id": "65246763"
+            },
+            {
+                "individual_id": 1827,
+                "name": "Hunnicutt, William Reese",
+                "years": "1882–1944",
+                "birth_year": "1882",
+                "death_year": "1944",
+                "findagrave_id": "86135545"
             },
             {
                 "individual_id": 405,
@@ -625,20 +625,20 @@
                 "familysearch_id": "LZZM-5JQ"
             },
             {
-                "individual_id": 176,
-                "name": "Dean, Dave C.",
-                "years": "1912–1932",
-                "birth_year": "1912",
-                "death_year": "1932",
-                "findagrave_id": "85709657"
-            },
-            {
                 "individual_id": 177,
                 "name": "Dean, Dave C.",
                 "years": "1878–1948",
                 "birth_year": "1878",
                 "death_year": "1948",
                 "findagrave_id": "85709722"
+            },
+            {
+                "individual_id": 176,
+                "name": "Dean, Dave C.",
+                "years": "1912–1932",
+                "birth_year": "1912",
+                "death_year": "1932",
+                "findagrave_id": "85709657"
             },
             {
                 "individual_id": 178,
@@ -1129,6 +1129,14 @@
                 "birth_year": "1874",
                 "death_year": "1922",
                 "findagrave_id": "86256066"
+            },
+            {
+                "individual_id": 160,
+                "name": "Davis, Sarah",
+                "years": "1906–1907",
+                "birth_year": "1906",
+                "death_year": "1907",
+                "findagrave_id": "85709351"
             },
             {
                 "individual_id": 327,
@@ -1800,14 +1808,6 @@
                 "findagrave_id": "88569087"
             },
             {
-                "individual_id": 595,
-                "name": "Philips, Frank L.",
-                "years": "1866–1930",
-                "birth_year": "1866",
-                "death_year": "1930",
-                "findagrave_id": "85806216"
-            },
-            {
                 "individual_id": 596,
                 "name": "Philips, Odis",
                 "years": "1910–1911",
@@ -1816,8 +1816,16 @@
                 "findagrave_id": "85806267"
             },
             {
+                "individual_id": 595,
+                "name": "Phillips, Frank L.",
+                "years": "1866–1930",
+                "birth_year": "1866",
+                "death_year": "1930",
+                "findagrave_id": "85806216"
+            },
+            {
                 "individual_id": 591,
-                "name": "Poole [Philips], Fannie",
+                "name": "Poole [Phillips], Fannie",
                 "years": "1871–1936",
                 "birth_year": "1871",
                 "death_year": "1936",
@@ -2397,6 +2405,14 @@
                 "familysearch_id": "KLK5-YBB"
             },
             {
+                "individual_id": 688,
+                "name": "Simpson, Infant Son",
+                "years": "1902–",
+                "birth_year": "1902",
+                "death_year": "",
+                "findagrave_id": "84346654"
+            },
+            {
                 "individual_id": 690,
                 "name": "Simpson, Infant Son",
                 "years": "1906–1906",
@@ -2411,14 +2427,6 @@
                 "birth_year": "1899",
                 "death_year": "1899",
                 "findagrave_id": "84346640"
-            },
-            {
-                "individual_id": 688,
-                "name": "Simpson, Infant Son",
-                "years": "1902–",
-                "birth_year": "1902",
-                "death_year": "",
-                "findagrave_id": "84346654"
             },
             {
                 "individual_id": 697,
@@ -3063,8 +3071,7 @@
                 "name": "Unknown, Native Grave",
                 "years": "",
                 "birth_year": "",
-                "death_year": "",
-                "findagrave_id": "85823866"
+                "death_year": ""
             }
         ],
         "B-6": [
@@ -3099,6 +3106,14 @@
                 "birth_year": "1872",
                 "death_year": "1961",
                 "findagrave_id": "85825928"
+            },
+            {
+                "individual_id": 393,
+                "name": "Key, Nancy",
+                "years": "1830–1878",
+                "birth_year": "1830",
+                "death_year": "1878",
+                "findagrave_id": "86236486"
             },
             {
                 "individual_id": 1887,
@@ -6248,19 +6263,19 @@
                 "familysearch_id": "GWC1-N9F"
             },
             {
-                "individual_id": 574,
-                "name": "Oliver, Archie Bryan",
-                "years": "1953–1974",
-                "birth_year": "1953",
-                "death_year": "1974"
-            },
-            {
                 "individual_id": 12907,
                 "name": "Oliver, Archie Bryan",
                 "years": "1924–1991",
                 "birth_year": "1924",
                 "death_year": "1991",
                 "findagrave_id": "71993530"
+            },
+            {
+                "individual_id": 574,
+                "name": "Oliver, Archie Bryan",
+                "years": "1953–1974",
+                "birth_year": "1953",
+                "death_year": "1974"
             },
             {
                 "individual_id": 576,
@@ -6731,6 +6746,21 @@
             "464": "niece-nephew-1",
             "1821": "aunt-uncle-1"
         },
+        "1829": {
+            "315": "spouse",
+            "1827": "ancestor-1",
+            "1828": "ancestor-1",
+            "1811": "ancestor-2",
+            "1826": "ancestor-2",
+            "1873": "aunt-uncle-1",
+            "1874": "aunt-uncle-1",
+            "161": "cousin-1",
+            "164": "cousin-1",
+            "166": "cousin-1",
+            "170": "cousin-1",
+            "173": "cousin-1",
+            "1844": "cousin-1"
+        },
         "1827": {
             "1828": "spouse",
             "1811": "ancestor-1",
@@ -6750,21 +6780,6 @@
             "1717": "cousin-1",
             "83": "cousin-1",
             "464": "cousin-1"
-        },
-        "1829": {
-            "315": "spouse",
-            "1827": "ancestor-1",
-            "1828": "ancestor-1",
-            "1811": "ancestor-2",
-            "1826": "ancestor-2",
-            "1873": "aunt-uncle-1",
-            "1874": "aunt-uncle-1",
-            "161": "cousin-1",
-            "164": "cousin-1",
-            "166": "cousin-1",
-            "170": "cousin-1",
-            "173": "cousin-1",
-            "1844": "cousin-1"
         },
         "405": {
             "408": "spouse"
@@ -7192,16 +7207,16 @@
             "503": "cousin-1",
             "978": "cousin-1"
         },
-        "176": {
-            "177": "ancestor-1",
-            "178": "sibling",
-            "179": "sibling"
-        },
         "177": {
             "180": "spouse",
             "176": "descendant-1",
             "178": "descendant-1",
             "179": "descendant-1"
+        },
+        "176": {
+            "177": "ancestor-1",
+            "178": "sibling",
+            "179": "sibling"
         },
         "178": {
             "177": "ancestor-1",
@@ -7777,6 +7792,7 @@
             "116": "sibling",
             "117": "sibling",
             "153": "sibling",
+            "160": "niece-nephew-1",
             "114": "aunt-uncle-1",
             "342": "aunt-uncle-1",
             "1451": "aunt-uncle-1",
@@ -7806,6 +7822,7 @@
             "116": "descendant-1",
             "117": "descendant-1",
             "153": "descendant-1",
+            "160": "descendant-2",
             "114": "sibling"
         },
         "114": {
@@ -7825,6 +7842,7 @@
             "113": "sibling",
             "117": "sibling",
             "153": "sibling",
+            "160": "niece-nephew-1",
             "114": "aunt-uncle-1",
             "342": "aunt-uncle-1",
             "1451": "aunt-uncle-1",
@@ -7854,6 +7872,15 @@
             "816": "descendant-1",
             "424": "descendant-2"
         },
+        "160": {
+            "153": "ancestor-1",
+            "111": "ancestor-2",
+            "118": "ancestor-2",
+            "112": "aunt-uncle-1",
+            "113": "aunt-uncle-1",
+            "116": "aunt-uncle-1",
+            "117": "aunt-uncle-1"
+        },
         "327": {
             "1457": "spouse",
             "204": "ancestor-1",
@@ -7881,6 +7908,7 @@
             "116": "descendant-1",
             "117": "descendant-1",
             "153": "descendant-1",
+            "160": "descendant-2",
             "342": "sibling",
             "1451": "sibling",
             "1457": "sibling",
@@ -8191,6 +8219,7 @@
             "118": "ancestor-1",
             "1453": "ancestor-2",
             "1454": "ancestor-2",
+            "160": "descendant-1",
             "112": "sibling",
             "113": "sibling",
             "116": "sibling",
@@ -8965,11 +8994,6 @@
             "610": "cousin-1"
         },
         "592": [],
-        "595": {
-            "591": "spouse",
-            "594": "descendant-1",
-            "596": "descendant-1"
-        },
         "596": {
             "591": "ancestor-1",
             "595": "ancestor-1",
@@ -8982,6 +9006,11 @@
             "483": "cousin-1",
             "607": "cousin-1",
             "610": "cousin-1"
+        },
+        "595": {
+            "591": "spouse",
+            "594": "descendant-1",
+            "596": "descendant-1"
         },
         "591": {
             "595": "spouse",
@@ -9971,6 +10000,40 @@
             "692": "cousin-1",
             "694": "cousin-1"
         },
+        "688": {
+            "1512": "ancestor-1",
+            "1513": "ancestor-1",
+            "682": "ancestor-2",
+            "639": "ancestor-2",
+            "658": "ancestor-2",
+            "687": "sibling",
+            "690": "sibling",
+            "697": "sibling",
+            "1220": "sibling",
+            "1219": "niece-nephew-1",
+            "1221": "niece-nephew-1",
+            "127": "niece-nephew-1",
+            "620": "aunt-uncle-1",
+            "698": "aunt-uncle-1",
+            "619": "aunt-uncle-1",
+            "541": "aunt-uncle-1",
+            "640": "aunt-uncle-1",
+            "655": "aunt-uncle-1",
+            "618": "cousin-1",
+            "538": "cousin-1",
+            "539": "cousin-1",
+            "540": "cousin-1",
+            "542": "cousin-1",
+            "638": "cousin-1",
+            "642": "cousin-1",
+            "653": "cousin-1",
+            "643": "cousin-1",
+            "648": "cousin-1",
+            "650": "cousin-1",
+            "672": "cousin-1",
+            "644": "cousin-1",
+            "645": "cousin-1"
+        },
         "690": {
             "1512": "ancestor-1",
             "1513": "ancestor-1",
@@ -10012,40 +10075,6 @@
             "639": "ancestor-2",
             "658": "ancestor-2",
             "688": "sibling",
-            "690": "sibling",
-            "697": "sibling",
-            "1220": "sibling",
-            "1219": "niece-nephew-1",
-            "1221": "niece-nephew-1",
-            "127": "niece-nephew-1",
-            "620": "aunt-uncle-1",
-            "698": "aunt-uncle-1",
-            "619": "aunt-uncle-1",
-            "541": "aunt-uncle-1",
-            "640": "aunt-uncle-1",
-            "655": "aunt-uncle-1",
-            "618": "cousin-1",
-            "538": "cousin-1",
-            "539": "cousin-1",
-            "540": "cousin-1",
-            "542": "cousin-1",
-            "638": "cousin-1",
-            "642": "cousin-1",
-            "653": "cousin-1",
-            "643": "cousin-1",
-            "648": "cousin-1",
-            "650": "cousin-1",
-            "672": "cousin-1",
-            "644": "cousin-1",
-            "645": "cousin-1"
-        },
-        "688": {
-            "1512": "ancestor-1",
-            "1513": "ancestor-1",
-            "682": "ancestor-2",
-            "639": "ancestor-2",
-            "658": "ancestor-2",
-            "687": "sibling",
             "690": "sibling",
             "697": "sibling",
             "1220": "sibling",
@@ -10960,7 +10989,10 @@
             "267": "spouse"
         },
         "370": [],
-        "442": [],
+        "442": {
+            "441": "ancestor-1",
+            "50": "sibling"
+        },
         "469": {
             "1814": "spouse",
             "83": "descendant-1",
@@ -11375,11 +11407,13 @@
             "772": "niece-nephew-1"
         },
         "50": {
-            "441": "ancestor-1"
+            "441": "ancestor-1",
+            "442": "sibling"
         },
         "443": [],
         "441": {
-            "50": "descendant-1"
+            "50": "descendant-1",
+            "442": "descendant-1"
         },
         "467": {
             "466": "ancestor-1",
@@ -11516,6 +11550,7 @@
             "1897": "spouse",
             "136": "ancestor-1"
         },
+        "393": [],
         "1887": {
             "1897": "descendant-1",
             "291": "descendant-2",
@@ -14659,6 +14694,7 @@
             "116": "sibling",
             "117": "sibling",
             "153": "sibling",
+            "160": "niece-nephew-1",
             "114": "aunt-uncle-1",
             "342": "aunt-uncle-1",
             "1451": "aunt-uncle-1",
@@ -15393,6 +15429,7 @@
             "113": "sibling",
             "116": "sibling",
             "153": "sibling",
+            "160": "niece-nephew-1",
             "114": "aunt-uncle-1",
             "342": "aunt-uncle-1",
             "1451": "aunt-uncle-1",
@@ -15474,6 +15511,11 @@
             "452": "cousin-1",
             "455": "cousin-1"
         },
+        "12907": {
+            "12908": "spouse",
+            "574": "descendant-1",
+            "576": "descendant-1"
+        },
         "574": {
             "12907": "ancestor-1",
             "12908": "ancestor-1",
@@ -15481,11 +15523,6 @@
             "1427": "ancestor-2",
             "576": "sibling",
             "241": "aunt-uncle-1"
-        },
-        "12907": {
-            "12908": "spouse",
-            "574": "descendant-1",
-            "576": "descendant-1"
         },
         "576": {
             "12907": "ancestor-1",
